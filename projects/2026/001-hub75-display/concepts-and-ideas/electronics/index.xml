@@ -9,46 +9,62 @@
 &lt;li&gt;all mounted on a &lt;strong&gt;4 × 6 cm double-sided experiment PCB&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The two 4-pole barrier strips provide eight screw positions in total. Five positions are intended for the five HUB75 panel feeds, leaving three spare positions.&lt;/p&gt;</description></item><item><title>Power Distribution Examples</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</guid><description>&lt;p&gt;Examples that inspired the HUB75 power-distribution concept.&lt;/p&gt;
-&lt;p&gt;These are &lt;strong&gt;references, not the proposed design&lt;/strong&gt;. Images are deliberately shown as small thumbnails (maximum 300 px wide). Clicking an image or product name opens the original product page.&lt;/p&gt;
+&lt;p&gt;These are &lt;strong&gt;references, not the proposed design&lt;/strong&gt;. Where a verified reference image is available, it is shown as a small thumbnail (maximum 300 px wide). Clicking an image or product name opens the original product page, and the image source is written out explicitly below the thumbnail.&lt;/p&gt;
 &lt;h2 id="screw-terminal-distribution"&gt;Screw-terminal distribution&lt;/h2&gt;
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
  &lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img src="https://rjstrains.com/cdn/shop/files/image_74052448-5ebd-4b60-8365-bef628d13d43.jpg?v=1712246155&amp;amp;width=1080" alt="Evemodel PCB005 power distribution board with two rows of screw terminals" loading="lazy"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
+
  &lt;div&gt;
- &lt;strong&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: RJ&amp;#39;s Trains — same Evemodel PCB005 product&lt;/div&gt;
+ &lt;strong&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/div&gt;
+ &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
+ &lt;em&gt;Image/source: RJ&amp;#39;s Trains — same Evemodel PCB005 product — &lt;a href="https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage" target="_blank" rel="noopener noreferrer"&gt;https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage&lt;/a&gt;&lt;/em&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
- &lt;a href="https://www.amazon.nl/WayinTop-Dubbellaagse-Stroomverdeler-Stroomverdeelmodule-Schroefmoeren/dp/B093PWRJS9/ref=asc_df_B093PWRJS9?mcid=997fdd3dbb6f3126af4e6557c51f9279&amp;amp;tag=nlshogostdde-21&amp;amp;linkCode=df0&amp;amp;hvadid=710052445639&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=11947329103008374579&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9196659&amp;amp;hvtargid=pla-1326653189171&amp;amp;psc=1&amp;amp;hvocijid=11947329103008374579-B093PWRJS9-&amp;amp;hvexpln=0&amp;amp;gad_source=1" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img src="https://m.media-amazon.com/images/I/71cN121t0US.jpg" alt="WayinTop double-layer power distribution boards" loading="lazy"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
+
  &lt;div&gt;
- &lt;strong&gt;&lt;a href="https://www.amazon.nl/WayinTop-Dubbellaagse-Stroomverdeler-Stroomverdeelmodule-Schroefmoeren/dp/B093PWRJS9/ref=asc_df_B093PWRJS9?mcid=997fdd3dbb6f3126af4e6557c51f9279&amp;amp;tag=nlshogostdde-21&amp;amp;linkCode=df0&amp;amp;hvadid=710052445639&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=11947329103008374579&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9196659&amp;amp;hvtargid=pla-1326653189171&amp;amp;psc=1&amp;amp;hvocijid=11947329103008374579-B093PWRJS9-&amp;amp;hvexpln=0&amp;amp;gad_source=1" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: Amazon product image for the WayinTop board&lt;/div&gt;
+ &lt;strong&gt;&lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/div&gt;
+ &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
+ &lt;em&gt;Image/source: Amazon product page for the WayinTop board — &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;https://www.amazon.nl/dp/B093PWRJS9&lt;/a&gt;&lt;/em&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2 id="plug-in-distribution"&gt;Plug-in distribution&lt;/h2&gt;
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
- &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board?srsltid=AYCX9vKald-8E0RfIaFpC8deAle44CocTJVGK9IB-d0ejS6VPIifkiO8" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img src="https://buildingblockrobotics.com/cdn/shop/files/PD-Vertv3.png?v=1711764231&amp;amp;width=2140" alt="Building Block Robotics XT30 power distribution board" loading="lazy"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
+
  &lt;div&gt;
- &lt;strong&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board?srsltid=AYCX9vKald-8E0RfIaFpC8deAle44CocTJVGK9IB-d0ejS6VPIifkiO8" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: Building Block Robotics product page&lt;/div&gt;
+ &lt;strong&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/div&gt;
+ &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
+ &lt;em&gt;Image/source: Building Block Robotics — &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;https://buildingblockrobotics.com/products/xt30-power-distribution-board&lt;/a&gt;&lt;/em&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
- &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case?ws_oss_lieferland=NL&amp;amp;gad_source=1&amp;amp;gad_campaignid=23549110017&amp;amp;gclid=Cj0KCQjw3YvXBhCDARIsAKB-ox9ysGvQXDxX2IjZTuInvFEy3lsws8NbieuVUeKBvfow_36OypILFFYaAsbQEALw_wcB" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="eckstein-er-oa001.svg" alt="Schematic thumbnail of the Eckstein ER-OA001 XT30 6-port power distribution board" loading="lazy"
+ &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img src="https://eckstein-shop.de/media/image/product/27841/lg/xt30-6-fach-parallel-verteilungsplatine-pla-gehaeuse~2.webp" alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure" loading="lazy"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
+
  &lt;div&gt;
- &lt;strong&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case?ws_oss_lieferland=NL&amp;amp;gad_source=1&amp;amp;gad_campaignid=23549110017&amp;amp;gclid=Cj0KCQjw3YvXBhCDARIsAKB-ox9ysGvQXDxX2IjZTuInvFEy3lsws8NbieuVUeKBvfow_36OypILFFYaAsbQEALw_wcB" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics XT30 6-port parallel power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One XT30 input feeding six parallel XT30 outputs in a compact PLA protective enclosure.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: Local schematic based on Eckstein ER-OA001 product specifications&lt;/div&gt;
+ &lt;strong&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics XT30 6-port parallel power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One XT30 input feeding six parallel XT30 outputs in a compact PLA protective enclosure.&lt;/div&gt;
+ &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
+ &lt;em&gt;Image/source: Eckstein Robotics — &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case&lt;/a&gt;&lt;/em&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
