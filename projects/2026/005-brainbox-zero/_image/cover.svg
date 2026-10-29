@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Illustration of a small electronic display, Raspberry Pi Zero-style board and four buttons">
+  <rect width="1200" height="800" fill="#eef3f3"/>
+  <ellipse cx="603" cy="683" rx="464" ry="38" fill="#dce5e3"/>
+
+  <!-- A small monochrome display, not a product-specific rendering. -->
+  <rect x="114" y="174" width="484" height="376" rx="24" fill="#252c31"/>
+  <rect x="142" y="201" width="428" height="323" rx="9" fill="#f7f8f1"/>
+  <rect x="174" y="235" width="202" height="18" rx="3" fill="#9da9a7"/>
+  <rect x="174" y="268" width="304" height="9" rx="3" fill="#c8d1ce"/>
+  <rect x="174" y="286" width="262" height="9" rx="3" fill="#c8d1ce"/>
+  <rect x="174" y="320" width="363" height="168" rx="5" fill="#e3e9e4"/>
+  <path d="M190 441l64-70 58 45 74-76 51 37 83-46" fill="none" stroke="#99aaa3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 467h328" stroke="#bdcac2" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Separate row of tactile buttons. -->
+  <rect x="666" y="188" width="416" height="122" rx="22" fill="#dbe3e0"/>
+  <rect x="676" y="198" width="396" height="102" rx="17" fill="#eff3f0"/>
+  <g stroke="#364247" stroke-width="7">
+    <circle cx="733" cy="249" r="27" fill="#60bda7"/>
+    <circle cx="827" cy="249" r="27" fill="#efbf64"/>
+    <circle cx="921" cy="249" r="27" fill="#619fcb"/>
+    <circle cx="1015" cy="249" r="27" fill="#d86c65"/>
+  </g>
+
+  <!-- Compact single-board computer, a conceptual Pi Zero platform. -->
+  <rect x="454" y="374" width="664" height="272" rx="35" fill="#265c50"/>
+  <rect x="466" y="386" width="640" height="248" rx="26" fill="#2c7a66"/>
+  <g fill="#e6e4ca" stroke="#225548" stroke-width="8">
+    <circle cx="495" cy="414" r="14"/>
+    <circle cx="1077" cy="414" r="14"/>
+    <circle cx="495" cy="606" r="14"/>
+    <circle cx="1077" cy="606" r="14"/>
+  </g>
+  <g fill="#b4a067">
+    <rect x="556" y="363" width="22" height="20" rx="2"/>
+    <rect x="588" y="363" width="22" height="20" rx="2"/>
+    <rect x="620" y="363" width="22" height="20" rx="2"/>
+    <rect x="652" y="363" width="22" height="20" rx="2"/>
+    <rect x="684" y="363" width="22" height="20" rx="2"/>
+    <rect x="716" y="363" width="22" height="20" rx="2"/>
+    <rect x="748" y="363" width="22" height="20" rx="2"/>
+    <rect x="780" y="363" width="22" height="20" rx="2"/>
+    <rect x="812" y="363" width="22" height="20" rx="2"/>
+    <rect x="844" y="363" width="22" height="20" rx="2"/>
+    <rect x="876" y="363" width="22" height="20" rx="2"/>
+    <rect x="908" y="363" width="22" height="20" rx="2"/>
+  </g>
+  <g fill="none" stroke="#6eaa96" stroke-width="5" opacity="0.7">
+    <path d="M520 467h70v-39h120"/>
+    <path d="M520 562h78v45h170"/>
+    <path d="M875 446h97v40h85"/>
+    <path d="M879 580h106v-40h84"/>
+  </g>
+  <rect x="648" y="441" width="197" height="167" rx="18" fill="#172428"/>
+  <rect x="660" y="453" width="173" height="143" rx="9" fill="#30383c"/>
+  <rect x="552" y="490" width="57" height="84" rx="8" fill="#c5cfc9" stroke="#6e817c" stroke-width="5"/>
+  <rect x="916" y="489" width="65" height="89" rx="6" fill="#a8b7b4" stroke="#6e817c" stroke-width="5"/>
+  <g fill="#d6dfd7">
+    <circle cx="875" cy="484" r="8"/><circle cx="875" cy="519" r="8"/><circle cx="875" cy="554" r="8"/>
+  </g>
+  <!-- Visible ports at the board edge. -->
+  <rect x="1092" y="451" width="32" height="63" rx="6" fill="#b1bdba" stroke="#526b65" stroke-width="5"/>
+  <rect x="1092" y="539" width="32" height="63" rx="6" fill="#b1bdba" stroke="#526b65" stroke-width="5"/>
+</svg>
