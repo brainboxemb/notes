@@ -1,0 +1,210 @@
+/*
+ * Brainbox Embedded Notes
+ *
+ * Project listings reuse Roadster's native list and thumbnail presentation.
+ * This file only adds project-specific metadata and navigation details.
+ */
+
+.project-group {
+  margin-top: 2rem;
+}
+
+.project-grid {
+  display: block;
+}
+
+.project-list__meta,
+.project-list__tags {
+  color: #666;
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.project-list__tags {
+  margin-top: 4px;
+}
+
+.project-list__tags a {
+  color: inherit;
+}
+
+.project-list__activity {
+  margin-bottom: 0;
+}
+
+.project-list__separator {
+  white-space: pre;
+}
+
+.project-overview-meta {
+  margin: 0 0 1.25rem;
+  color: #666;
+}
+
+.project-overview-meta__line {
+  margin: 0 0 0.35rem;
+}
+
+.project-reference {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.project-reference h2 {
+  margin-top: 2rem;
+}
+
+.project-reference__table-wrap {
+  overflow-x: auto;
+}
+
+.project-reference__table {
+  min-width: 34rem;
+}
+
+.project-reference__phase-icon {
+  width: 2rem;
+  text-align: center;
+}
+
+.project-reference__symbol {
+  display: inline-block;
+  min-width: 1.2rem;
+  text-align: center;
+}
+
+.projects-sidebar__subtitle {
+  margin: 0.9rem 0 0.25rem;
+  font-size: 0.9rem;
+}
+
+.projects-sidebar__item--current a {
+  font-weight: 700;
+}
+
+.projects-sidebar__archive-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+@media screen and (max-width: 620px) {
+  .project-reference__table {
+    min-width: 30rem;
+  }
+}
+
+.project-breadcrumb-wrap {
+  margin: 0 0 1.25rem;
+}
+
+.project-breadcrumb {
+  margin: 0;
+  color: #666;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.project-breadcrumb a {
+  color: inherit;
+}
+
+.project-breadcrumb__separator {
+  color: #999;
+}
+
+.project-breadcrumb__current {
+  color: inherit;
+}
+
+.project-breadcrumb__rule {
+  margin: 0.55rem 0 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.project-detail-thumbnail .post__thumbnail {
+  max-width: 380px;
+  margin: 0 0 1rem;
+}
+
+.project-detail-thumbnail .post__thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 620px) {
+  .project-detail-thumbnail .post__thumbnail {
+    max-width: 100%;
+  }
+}
+
+.project-local-nav__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.project-local-nav__item {
+  margin: 0;
+  padding: 0.28rem 0;
+  border-bottom: 1px dotted var(--color-border);
+  line-height: 1.35;
+}
+
+.project-local-nav__item a {
+  text-decoration: none;
+}
+
+.project-local-nav__item--current > a {
+  font-weight: 700;
+}
+
+.project-local-nav__list--nested {
+  margin: 0.28rem 0 0;
+  padding-left: 1rem;
+}
+
+.project-local-nav__list--nested .project-local-nav__item {
+  margin: 0;
+  padding: 0.22rem 0;
+  border: 0;
+  line-height: 1.35;
+  font-size: 0.875rem;
+}
+
+.project-local-toc {
+  margin: 0.28rem 0 0;
+  padding-left: 1rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+}
+
+.project-local-toc nav,
+.project-local-toc ul {
+  margin: 0;
+  padding: 0;
+}
+
+.project-local-toc ul {
+  list-style: none;
+}
+
+.project-local-toc ul ul {
+  padding-left: 1rem;
+}
+
+.project-local-toc li {
+  margin: 0;
+  padding: 0.22rem 0;
+  border: 0;
+  line-height: 1.35;
+}
+
+.project-local-toc a {
+  font-weight: 400;
+  text-decoration: none;
+}
