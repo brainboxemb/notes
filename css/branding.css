@@ -176,6 +176,34 @@ html[data-theme="light"] th {
   text-decoration: underline;
 }
 
+/*
+ * Keep the top-level navigation directly usable on small screens.
+ * Roadster normally hides the list behind a JavaScript toggle. With the
+ * current compact site navigation that adds an unnecessary failure point:
+ * the primary destination should remain available even if the toggle script
+ * does not run or a touch browser fails to activate it.
+ */
+@media screen and (max-width: 766px) {
+  .menu__btn {
+    display: none;
+  }
+
+  .menu__list,
+  .js .menu__list {
+    position: relative;
+    display: block;
+    width: 100%;
+    visibility: visible;
+    border: 0;
+    transform: none;
+    -webkit-transform: none;
+  }
+
+  .menu__list--transition {
+    transition: none;
+  }
+}
+
 @media screen and (max-width: 620px) {
   .header {
     background-position: center, right center;
