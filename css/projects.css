@@ -230,3 +230,19 @@
 .project-child-summary__excerpt p:last-child {
   margin-bottom: 0;
 }
+
+
+/* Give project thumbnails a stable containing width.
+ * This also keeps vector thumbnails with only a viewBox from collapsing
+ * inside Roadster's floated list thumbnail container.
+ */
+.project-list__item .list__thumbnail {
+  width: 235px;
+  max-width: 40%;
+}
+
+@media screen and (max-width: 620px) {
+  .project-list__item .list__thumbnail {
+    max-width: 100%;
+  }
+}
