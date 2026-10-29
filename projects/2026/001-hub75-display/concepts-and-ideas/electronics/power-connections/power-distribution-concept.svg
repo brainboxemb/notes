@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 560" role="img" aria-labelledby="title desc">
+  <title id="title">HUB75 power distribution prototype concept</title>
+  <desc id="desc">A 4 by 6 centimetre prototype PCB with a removable 20 amp input connector, two four-pole barrier terminals and one auxiliary 10 amp screw terminal.</desc>
+  <defs>
+    <style>
+      .label{font:600 18px system-ui,sans-serif;fill:#0b3154}
+      .small{font:14px system-ui,sans-serif;fill:#425466}
+      .tiny{font:12px system-ui,sans-serif;fill:#425466}
+      .dim{font:13px system-ui,sans-serif;fill:#596874}
+      .screw{fill:#d9dee2;stroke:#737d86;stroke-width:2}
+      .slot{stroke:#737d86;stroke-width:2}
+    </style>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#596874"/>
+    </marker>
+  </defs>
+
+  <text x="42" y="42" class="label" style="font-size:26px">HUB75 power distribution — prototype layout</text>
+  <text x="42" y="68" class="small">4 × 6 cm experiment PCB · 20 A removable input · 2 × 4-pole barrier terminals · 10 A auxiliary output</text>
+
+  <!-- board -->
+  <rect x="130" y="125" width="650" height="300" rx="12" fill="#14945f" stroke="#0b6844" stroke-width="3"/>
+  <g fill="#dfc675" stroke="#876f2d" stroke-width="1">
+    <!-- a small indication of the 2.54 mm hole grid -->
+    <circle cx="190" cy="155" r="3"/><circle cx="210" cy="155" r="3"/><circle cx="230" cy="155" r="3"/>
+    <circle cx="190" cy="395" r="3"/><circle cx="210" cy="395" r="3"/><circle cx="230" cy="395" r="3"/>
+    <circle cx="690" cy="155" r="3"/><circle cx="710" cy="155" r="3"/><circle cx="730" cy="155" r="3"/>
+    <circle cx="690" cy="395" r="3"/><circle cx="710" cy="395" r="3"/><circle cx="730" cy="395" r="3"/>
+  </g>
+  <g fill="#f2e3a6" stroke="#876f2d" stroke-width="2">
+    <circle cx="155" cy="150" r="10"/><circle cx="755" cy="150" r="10"/>
+    <circle cx="155" cy="400" r="10"/><circle cx="755" cy="400" r="10"/>
+  </g>
+
+  <!-- current buses -->
+  <path d="M220 258 H705" stroke="#d62f2f" stroke-width="7" opacity=".9"/>
+  <path d="M220 290 H705" stroke="#1f2933" stroke-width="7" opacity=".9"/>
+  <text x="695" y="248" class="tiny" fill="#d62f2f">+5 V bus</text>
+  <text x="695" y="313" class="tiny">GND bus</text>
+
+  <!-- cable-side removable input plug -->
+  <path d="M35 245 H78" stroke="#d62f2f" stroke-width="7"/>
+  <path d="M35 285 H78" stroke="#1f2933" stroke-width="7"/>
+  <g transform="translate(76 208)">
+    <rect width="68" height="112" rx="6" fill="#6fc767" stroke="#3d8b3a" stroke-width="2"/>
+    <circle cx="34" cy="32" r="13" class="screw"/><path d="M25 32h18" class="slot"/>
+    <circle cx="34" cy="78" r="13" class="screw"/><path d="M25 78h18" class="slot"/>
+    <path d="M64 34h16v42H64" fill="#58aa52"/>
+  </g>
+
+  <!-- PCB-side 90 degree input header -->
+  <g transform="translate(150 225)">
+    <rect width="66" height="78" rx="5" fill="#70cb69" stroke="#3d8b3a" stroke-width="2"/>
+    <rect x="-14" y="12" width="24" height="20" rx="3" fill="#4f9f4b"/>
+    <rect x="-14" y="46" width="24" height="20" rx="3" fill="#4f9f4b"/>
+    <line x1="66" y1="33" x2="85" y2="33" stroke="#d62f2f" stroke-width="7"/>
+    <line x1="66" y1="58" x2="85" y2="58" stroke="#1f2933" stroke-width="7"/>
+  </g>
+
+  <!-- 4-pole barrier terminal row A -->
+  <g transform="translate(330 165)">
+    <rect width="250" height="70" rx="4" fill="#181b1f"/>
+    <line x1="62.5" y1="0" x2="62.5" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <line x1="125" y1="0" x2="125" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <line x1="187.5" y1="0" x2="187.5" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <circle cx="31" cy="34" r="12" class="screw"/><path d="M23 34h16" class="slot"/>
+    <circle cx="94" cy="34" r="12" class="screw"/><path d="M86 34h16" class="slot"/>
+    <circle cx="156" cy="34" r="12" class="screw"/><path d="M148 34h16" class="slot"/>
+    <circle cx="219" cy="34" r="12" class="screw"/><path d="M211 34h16" class="slot"/>
+  </g>
+
+  <!-- 4-pole barrier terminal row B -->
+  <g transform="translate(330 315)">
+    <rect width="250" height="70" rx="4" fill="#181b1f"/>
+    <line x1="62.5" y1="0" x2="62.5" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <line x1="125" y1="0" x2="125" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <line x1="187.5" y1="0" x2="187.5" y2="70" stroke="#3b4147" stroke-width="4"/>
+    <circle cx="31" cy="34" r="12" class="screw"/><path d="M23 34h16" class="slot"/>
+    <circle cx="94" cy="34" r="12" class="screw"/><path d="M86 34h16" class="slot"/>
+    <circle cx="156" cy="34" r="12" class="screw"/><path d="M148 34h16" class="slot"/>
+    <circle cx="219" cy="34" r="12" class="screw"/><path d="M211 34h16" class="slot"/>
+  </g>
+
+  <!-- aux 10A terminal rotated in board plane -->
+  <g transform="translate(735 320) rotate(90)">
+    <rect width="72" height="52" rx="5" fill="#62bf59" stroke="#3d8b3a" stroke-width="2"/>
+    <circle cx="22" cy="26" r="11" class="screw"/><path d="M15 26h14" class="slot"/>
+    <circle cx="51" cy="26" r="11" class="screw"/><path d="M44 26h14" class="slot"/>
+  </g>
+
+  <!-- labels -->
+  <text x="36" y="170" class="label">20 A input</text>
+  <text x="36" y="192" class="small">removable cable plug</text>
+  <path d="M120 196 L120 215" stroke="#596874" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <text x="270" y="115" class="label">Output rail A — 1 × 4-pole</text>
+  <path d="M430 120 L430 158" stroke="#596874" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <text x="270" y="458" class="label">Output rail B — 1 × 4-pole</text>
+  <path d="M430 440 L430 392" stroke="#596874" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <text x="695" y="458" class="label">10 A AUX</text>
+  <text x="695" y="479" class="small">PCB / auxiliary 5 V</text>
+  <path d="M738 442 L738 410" stroke="#596874" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- dimensions -->
+  <path d="M130 505 H780" stroke="#596874" stroke-width="1.5"/>
+  <path d="M130 496 V514 M780 496 V514" stroke="#596874" stroke-width="1.5"/>
+  <text x="431" y="528" class="dim">60 mm</text>
+  <path d="M825 125 V425" stroke="#596874" stroke-width="1.5"/>
+  <path d="M816 125 H834 M816 425 H834" stroke="#596874" stroke-width="1.5"/>
+  <text x="844" y="282" class="dim">40 mm</text>
+
+  <text x="42" y="548" class="tiny">Concept drawing — component fit and high-current bus construction must still be verified on the actual prototype board.</text>
+</svg>

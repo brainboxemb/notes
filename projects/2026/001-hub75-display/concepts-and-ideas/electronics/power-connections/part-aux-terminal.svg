@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="150" viewBox="0 0 240 150">
+<rect width="240" height="150" fill="#fff"/>
+<g transform="translate(78 34)">
+<rect width="84" height="66" rx="5" fill="#5ebc57" stroke="#3d8b3a" stroke-width="2"/>
+<circle cx="27" cy="33" r="13" fill="#d9dee2" stroke="#737d86" stroke-width="2"/><path d="M18 33h18" stroke="#737d86" stroke-width="2"/>
+<circle cx="57" cy="33" r="13" fill="#d9dee2" stroke="#737d86" stroke-width="2"/><path d="M48 33h18" stroke="#737d86" stroke-width="2"/>
+<path d="M27 66v20M57 66v20" stroke="#8a8f94" stroke-width="5"/>
+</g>
+<text x="120" y="132" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#425466">10 A auxiliary screw terminal · 5.08 mm</text>
+</svg>

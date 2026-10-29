@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="150" viewBox="0 0 240 150">
+<rect width="240" height="150" fill="#fff"/>
+<g transform="translate(36 34)">
+<rect width="168" height="72" rx="5" fill="#191d21"/>
+<g stroke="#424950" stroke-width="4"><path d="M42 0v72M84 0v72M126 0v72"/></g>
+<g fill="#d9dee2" stroke="#737d86" stroke-width="2">
+<circle cx="21" cy="35" r="13"/><circle cx="63" cy="35" r="13"/><circle cx="105" cy="35" r="13"/><circle cx="147" cy="35" r="13"/>
+</g>
+<g stroke="#737d86" stroke-width="2"><path d="M12 35h18M54 35h18M96 35h18M138 35h18"/></g>
+</g>
+<text x="120" y="132" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#425466">4-pole barrier strip · 7.62 mm · M3</text>
+</svg>

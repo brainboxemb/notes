@@ -11,14 +11,17 @@
 &lt;li&gt;&lt;a href="https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html"&gt;Fritz-Events — Penn Elcom H1025 recessed corner handle&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.aweo.de/Penn-Elcom-H1025-Kanteneinbaugriff-schwarz"&gt;Additional picture at Aweo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The listed dimensions are 150 × 57.2 × 57.2 mm.&lt;/p&gt;</description></item><item><title>HUB75 Power Connections</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</guid><description>&lt;p&gt;References and notes about distributing power to HUB75 LED matrix panels.&lt;/p&gt;
-&lt;h2 id="standard-power-cable"&gt;Standard power cable&lt;/h2&gt;
+&lt;p&gt;The listed dimensions are 150 × 57.2 × 57.2 mm.&lt;/p&gt;</description></item><item><title>HUB75 Power Connections</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</guid><description>&lt;p&gt;A prototype concept for distributing 5 V power from one supply to the HUB75 LED matrix panels.&lt;/p&gt;
+&lt;h2 id="proposed-concept"&gt;Proposed concept&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/power-distribution-concept.svg" alt="HUB75 power distribution prototype concept"&gt;&lt;/p&gt;
+&lt;p&gt;The prototype is deliberately simple:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.adafruit.com/product/4767"&gt;Adafruit — Replacement 5V Power Cable for RGB LED Matrices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://forums.adafruit.com/viewtopic.php?t=191378"&gt;Adafruit forum discussion about the cable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 × removable 20 A input&lt;/strong&gt; for the main 5 V supply;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2 × 4-pole barrier-strip terminals&lt;/strong&gt; for the HUB75 panel outputs;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 × additional 2-pole 10 A screw terminal&lt;/strong&gt; for PCB / auxiliary 5 V;&lt;/li&gt;
+&lt;li&gt;all mounted on a &lt;strong&gt;4 × 6 cm double-sided experiment PCB&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;HUB75 panels are often supplied with standard power cables, frequently with a split for connecting multiple panels.&lt;/p&gt;
-&lt;p&gt;Alternative cables are not easy to find. In particular, it appears difficult to find a simple HUB75 power connector with loose wires that can receive a custom termination.&lt;/p&gt;</description></item><item><title>Woodworking Videos</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</guid><description>&lt;p&gt;Useful woodworking videos for building and finishing the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;The two 4-pole barrier strips provide eight screw positions in total. Five positions are intended for the five HUB75 panel feeds, leaving three spare positions.&lt;/p&gt;</description></item><item><title>Woodworking Videos</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</guid><description>&lt;p&gt;Useful woodworking videos for building and finishing the HUB75 display enclosure.&lt;/p&gt;
 &lt;h2 id="finishing-plywood-edges-with-solid-oak"&gt;Finishing plywood edges with solid oak&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0"&gt;YouTube — Using oak on the exposed edges of plywood&lt;/a&gt;&lt;/li&gt;
@@ -66,7 +69,42 @@
 &lt;/table&gt;
 &lt;p&gt;The overall height consists of a 20 mm top profile, a 320 mm vertical profile and a 20 mm bottom profile.&lt;/p&gt;
 &lt;h2 id="panel-mounting"&gt;Panel mounting&lt;/h2&gt;
-&lt;p&gt;The five HUB75 panels will be mounted to the frame using custom brackets.&lt;/p&gt;</description></item><item><title>Okoumé Wood Suppliers</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/wood-suppliers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/wood-suppliers/</guid><description>&lt;p&gt;This page contains suppliers of Okoumé plywood for the HUB75 LED matrix display project.&lt;/p&gt;
+&lt;p&gt;The five HUB75 panels will be mounted to the frame using custom brackets.&lt;/p&gt;</description></item><item><title>Power Distribution Examples</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</guid><description>&lt;p&gt;Examples that inspired the HUB75 power-distribution concept.&lt;/p&gt;
+&lt;p&gt;These are &lt;strong&gt;references, not the proposed design&lt;/strong&gt;. Images are deliberately shown as small thumbnails (maximum 300 px wide). Clicking an image or product name opens the original product page.&lt;/p&gt;
+&lt;h2 id="screw-terminal-distribution"&gt;Screw-terminal distribution&lt;/h2&gt;
+&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+ &lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img src="https://rjstrains.com/cdn/shop/files/image_74052448-5ebd-4b60-8365-bef628d13d43.jpg?v=1712246155&amp;amp;width=1080" alt="Evemodel PCB005 power distribution board with two rows of screw terminals" loading="lazy"
+ style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;/a&gt;
+ &lt;div&gt;
+ &lt;strong&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: RJ&amp;#39;s Trains — same Evemodel PCB005 product&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+ &lt;a href="https://www.amazon.nl/WayinTop-Dubbellaagse-Stroomverdeler-Stroomverdeelmodule-Schroefmoeren/dp/B093PWRJS9/ref=asc_df_B093PWRJS9?mcid=997fdd3dbb6f3126af4e6557c51f9279&amp;amp;tag=nlshogostdde-21&amp;amp;linkCode=df0&amp;amp;hvadid=710052445639&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=11947329103008374579&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9196659&amp;amp;hvtargid=pla-1326653189171&amp;amp;psc=1&amp;amp;hvocijid=11947329103008374579-B093PWRJS9-&amp;amp;hvexpln=0&amp;amp;gad_source=1" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img src="https://m.media-amazon.com/images/I/71cN121t0US.jpg" alt="WayinTop double-layer power distribution boards" loading="lazy"
+ style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;/a&gt;
+ &lt;div&gt;
+ &lt;strong&gt;&lt;a href="https://www.amazon.nl/WayinTop-Dubbellaagse-Stroomverdeler-Stroomverdeelmodule-Schroefmoeren/dp/B093PWRJS9/ref=asc_df_B093PWRJS9?mcid=997fdd3dbb6f3126af4e6557c51f9279&amp;amp;tag=nlshogostdde-21&amp;amp;linkCode=df0&amp;amp;hvadid=710052445639&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=11947329103008374579&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9196659&amp;amp;hvtargid=pla-1326653189171&amp;amp;psc=1&amp;amp;hvocijid=11947329103008374579-B093PWRJS9-&amp;amp;hvexpln=0&amp;amp;gad_source=1" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: Amazon product image for the WayinTop board&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id="plug-in-distribution"&gt;Plug-in distribution&lt;/h2&gt;
+&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+ &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board?srsltid=AYCX9vKald-8E0RfIaFpC8deAle44CocTJVGK9IB-d0ejS6VPIifkiO8" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img src="https://buildingblockrobotics.com/cdn/shop/files/PD-Vertv3.png?v=1711764231&amp;amp;width=2140" alt="Building Block Robotics XT30 power distribution board" loading="lazy"
+ style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;/a&gt;
+ &lt;div&gt;
+ &lt;strong&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board?srsltid=AYCX9vKald-8E0RfIaFpC8deAle44CocTJVGK9IB-d0ejS6VPIifkiO8" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/div&gt;&lt;div style="font-size:.8em;opacity:.75;"&gt;Image source: Building Block Robotics product page&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id="eckstein-robotics-xt30-6-port-board"&gt;Eckstein Robotics XT30 6-port board&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case?ws_oss_lieferland=NL&amp;amp;gad_source=1&amp;amp;gad_campaignid=23549110017&amp;amp;gclid=Cj0KCQjw3YvXBhCDARIsAKB-ox9ysGvQXDxX2IjZTuInvFEy3lsws8NbieuVUeKBvfow_36OypILFFYaAsbQEALw_wcB"&gt;Eckstein Robotics — XT30 6-port parallel power distribution board with PLA case&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Okoumé Wood Suppliers</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/wood-suppliers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/wood-suppliers/</guid><description>&lt;p&gt;This page contains suppliers of Okoumé plywood for the HUB75 LED matrix display project.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Prices were checked in July 2026 and may change over time.&lt;/p&gt;
 &lt;p&gt;This first overview focuses mainly on quarter-size sheets of approximately 61 × 125 cm.&lt;/p&gt;

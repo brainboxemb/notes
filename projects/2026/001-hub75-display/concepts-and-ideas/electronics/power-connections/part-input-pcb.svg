@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="150" viewBox="0 0 240 150">
+<rect width="240" height="150" fill="#fff"/>
+<g transform="translate(75 30)">
+<rect x="25" y="18" width="78" height="66" rx="5" fill="#66bd60" stroke="#3d8b3a" stroke-width="2"/>
+<rect x="4" y="27" width="32" height="18" rx="3" fill="#4d9d49"/>
+<rect x="4" y="57" width="32" height="18" rx="3" fill="#4d9d49"/>
+<rect x="47" y="0" width="10" height="24" rx="2" fill="#62b65c"/>
+<rect x="74" y="0" width="10" height="24" rx="2" fill="#62b65c"/>
+<path d="M47 84v22M81 84v22" stroke="#8a8f94" stroke-width="5"/>
+</g>
+<text x="120" y="132" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#425466">20 A input · PCB side · 90°</text>
+</svg>
