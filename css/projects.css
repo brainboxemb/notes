@@ -208,3 +208,25 @@
   font-weight: 400;
   text-decoration: none;
 }
+
+
+/*
+ * Project child pages are navigation entries on their parent section.
+ * Keep previews text-only so page-bundle images remain on the child page
+ * where their resource URLs are unambiguous.
+ */
+.project-child-summary__title a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.12em;
+}
+
+.project-child-summary__arrow {
+  display: inline-block;
+  margin-left: 0.15em;
+  text-decoration: none;
+}
+
+.project-child-summary__excerpt p:last-child {
+  margin-bottom: 0;
+}
