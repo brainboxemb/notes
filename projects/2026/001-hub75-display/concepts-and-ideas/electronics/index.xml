@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronics on Brainbox Embedded Notes</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/</link><description>Recent content in Electronics on Brainbox Embedded Notes</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>HUB75 Power Connections</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</guid><description>&lt;p&gt;A prototype concept for distributing 5 V power from one supply to the HUB75 LED matrix panels.&lt;/p&gt;
 &lt;h2 id="proposed-concept"&gt;Proposed concept&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/power-distribution-concept.svg" alt="HUB75 power distribution prototype concept"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/images/power-distribution-concept.svg" alt="HUB75 power distribution prototype concept"&gt;&lt;/p&gt;
 &lt;p&gt;The prototype is deliberately simple:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;1 × removable 20 A input&lt;/strong&gt; for the main 5 V supply;&lt;/li&gt;
@@ -13,7 +13,8 @@
 &lt;h2 id="screw-terminal-distribution"&gt;Screw-terminal distribution&lt;/h2&gt;
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
  &lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://rjstrains.com/cdn/shop/files/image_74052448-5ebd-4b60-8365-bef628d13d43.jpg?v=1712246155&amp;amp;width=1080" alt="Evemodel PCB005 power distribution board with two rows of screw terminals" loading="lazy"
+ &lt;img src="https://brainboxemb.github.io/site.notes2/image_74052448-5ebd-4b60-8365-bef628d13d43_7079817999147537035_hu_3eda2fac040586a5.webp" alt="Evemodel PCB005 power distribution board with two rows of screw terminals" loading="lazy"
+ width="320" height="320"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
 
@@ -27,7 +28,8 @@
 
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
  &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://m.media-amazon.com/images/I/71cN121t0US.jpg" alt="WayinTop double-layer power distribution boards" loading="lazy"
+ &lt;img src="https://brainboxemb.github.io/site.notes2/71cN121t0US_9444632620244869847_hu_b385a8fa3db3428d.webp" alt="WayinTop double-layer power distribution boards" loading="lazy"
+ width="320" height="320"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
 
@@ -42,7 +44,8 @@
 &lt;h2 id="plug-in-distribution"&gt;Plug-in distribution&lt;/h2&gt;
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
  &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://buildingblockrobotics.com/cdn/shop/files/PD-Vertv3.png?v=1711764231&amp;amp;width=2140" alt="Building Block Robotics XT30 power distribution board" loading="lazy"
+ &lt;img src="https://brainboxemb.github.io/site.notes2/PD-Vertv3_7699617306724204513_hu_5c0dc330ade53ffd.webp" alt="Building Block Robotics XT30 power distribution board" loading="lazy"
+ width="320" height="181"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
 
@@ -56,7 +59,8 @@
 
 &lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
  &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://eckstein-shop.de/media/image/product/27841/lg/xt30-6-fach-parallel-verteilungsplatine-pla-gehaeuse~2.webp" alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure" loading="lazy"
+ &lt;img src="https://brainboxemb.github.io/site.notes2/xt30-6-fach-parallel-verteilungsplatine-pla-gehaeuse~2_18221914563021726860_hu_6805c27f29327c8a.webp" alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure" loading="lazy"
+ width="320" height="180"
  style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
  &lt;/a&gt;
 
