@@ -3,8 +3,29 @@
  * Separate file so homepage layout changes are not hidden by a cached projects.css.
  */
 
-.home-projects {
+.home-projects,
+.home-follow {
   margin-top: 2.5rem;
+}
+
+.home-section-title {
+  padding-bottom: 0;
+}
+
+.home-section-rule {
+  display: block !important;
+  width: 100%;
+  height: 0;
+  margin: 0.6rem 0 1.1rem;
+  padding: 0;
+  border: 0 !important;
+  border-top: 2px solid #cbd7de !important;
+  background: none !important;
+  opacity: 1 !important;
+}
+
+.home > .main__header.home-section-title {
+  margin-bottom: 0;
 }
 
 .home-section__header {
@@ -12,7 +33,7 @@
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.15rem;
 }
 
 .home-section__header h2,
@@ -28,6 +49,11 @@
 .home-section__more {
   flex: 0 0 auto;
   font-size: 0.875rem;
+}
+
+.home-follow > .home-source:first-of-type {
+  padding-top: 0.2rem;
+  border-top: 0;
 }
 
 .home .home-project-grid {

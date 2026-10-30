@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 312" fill="none">
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="blueBox" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79ddff"/>
+      <stop offset="1" stop-color="#2aa8ee"/>
+    </linearGradient>
+    <linearGradient id="orangeBox" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd06b"/>
+      <stop offset="1" stop-color="#f08a32"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#glow)" opacity="0.58">
+    <path d="M0 122 C92 98 176 128 268 110 S450 89 635 145" stroke="#38bfff" stroke-width="2.3"/>
+    <path d="M0 163 C118 142 198 174 298 154 S472 136 650 162" stroke="#56d2ff" stroke-width="1.8"/>
+    <path d="M0 205 C106 183 192 214 304 190 S488 170 654 177" stroke="#f2a044" stroke-width="1.7"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <g transform="translate(270 102)">
+      <rect width="66" height="66" rx="9" fill="#0b3458" fill-opacity="0.70" stroke="url(#blueBox)" stroke-width="2.3"/>
+      <path d="M20 18h26M20 28h26M20 38h18M20 48h23" stroke="#c8f4ff" stroke-width="2.1"/>
+    </g>
+
+    <g transform="translate(368 154)">
+      <rect width="58" height="58" rx="8" fill="#0b3458" fill-opacity="0.72" stroke="url(#orangeBox)" stroke-width="2.2"/>
+      <circle cx="29" cy="29" r="10" stroke="#ffd071" stroke-width="2"/>
+      <path d="M29 12v7M29 39v7M12 29h7M39 29h7" stroke="#ffd071" stroke-width="2"/>
+    </g>
+
+    <g transform="translate(445 94)">
+      <rect width="64" height="64" rx="9" fill="#0b3458" fill-opacity="0.70" stroke="url(#blueBox)" stroke-width="2.3"/>
+      <path d="M23 18 13 32l10 14M41 18l10 14-10 14M36 14l-8 36" stroke="#d7f8ff" stroke-width="2.2"/>
+    </g>
+
+    <g transform="translate(528 161)">
+      <rect width="56" height="56" rx="8" fill="#0b3458" fill-opacity="0.70" stroke="url(#blueBox)" stroke-width="2.1"/>
+      <path d="M15 17h26v22H15zM20 12v5M36 12v5M20 39v5M36 39v5" stroke="#b7efff" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g stroke-linecap="round" filter="url(#glow)" opacity="0.60">
+    <path d="M336 135 C385 133 418 137 455 143 S540 151 638 154" stroke="#54d2ff" stroke-width="2"/>
+    <path d="M426 183 C482 182 534 174 579 169 S620 163 655 163" stroke="#f5a044" stroke-width="1.8"/>
+    <path d="M509 126 C552 129 587 138 635 151" stroke="#72e3ff" stroke-width="1.9"/>
+    <path d="M584 189 C612 181 630 173 657 168" stroke="#5fd8ff" stroke-width="1.8"/>
+  </g>
+</svg>

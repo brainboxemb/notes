@@ -1,5 +1,5 @@
 /*
- * BrainboxEmb Notes site branding
+ * brainbox site branding
  *
  * Keep Roadster's layout and components, but align the visual language with
  * https://brainboxemb.github.io/: dark navy, green accents, blue links and
@@ -9,7 +9,7 @@
 :root {
   --brainbox-navy: #0b3154;
   --brainbox-navy-dark: #082946;
-  --brainbox-green: #12a875;
+  --brainbox-green: #24977c;
   --brainbox-link: #125fc6;
   --brainbox-muted: #596874;
   --brainbox-border: #d7e0e5;
@@ -40,16 +40,18 @@ body {
   background-color: var(--brainbox-navy);
   background-image:
     linear-gradient(90deg,
-      rgba(8, 41, 70, 0.99) 0%,
-      rgba(8, 41, 70, 0.97) 30%,
-      rgba(8, 41, 70, 0.92) 50%,
-      rgba(8, 41, 70, 0.82) 72%,
-      rgba(8, 41, 70, 0.68) 100%
+      rgba(4, 24, 47, 0.97) 0%,
+      rgba(4, 28, 52, 0.91) 18%,
+      rgba(5, 34, 62, 0.62) 34%,
+      rgba(5, 34, 62, 0.28) 50%,
+      rgba(5, 34, 62, 0.13) 72%,
+      rgba(5, 34, 62, 0.08) 100%
     ),
+    url("../images/header-boxes.svg"),
     url("../images/header-brain-pcb.webp");
-  background-position: center, right center;
+  background-position: center, center, center;
   background-repeat: no-repeat;
-  background-size: cover, 100% auto;
+  background-size: cover, 100% auto, 100% auto;
   border-top: 3px solid var(--brainbox-green);
   border-bottom: 3px solid var(--brainbox-green);
 }
@@ -62,20 +64,78 @@ body {
   text-transform: none;
 }
 
-.logo__title {
-  font-size: 1.65rem;
+.brainbox-logo {
+  display: inline-block;
   color: #fff;
-  letter-spacing: -0.02em;
+  text-decoration: none;
 }
 
-.logo__tagline {
-  padding-top: 3px;
+.brainbox-logo:hover {
+  text-decoration: none;
+}
+
+.logo__title,
+.brainbox-logo__wordmark {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.045em;
+  text-transform: lowercase;
+  text-shadow: 0 0 12px rgba(79, 188, 255, 0.32);
+}
+
+.brainbox-logo__brain {
+  color: #f7fbff;
+}
+
+.brainbox-logo__b {
+  color: #20d4ed;
+}
+
+.brainbox-logo__xemb {
+  color: #2aa8ee;
+}
+
+.brainbox-logo__cube {
+  display: inline-flex;
+  width: 0.94em;
+  height: 0.94em;
+  margin: 0 0.03em 0 0.035em;
+}
+
+.brainbox-logo__cube svg {
+  width: 100%;
+  height: 100%;
+  fill: rgba(29, 162, 228, 0.10);
+  stroke: #52ddf2;
+  stroke-width: 1.7;
+  filter: drop-shadow(0 0 3px rgba(65, 210, 242, 0.65));
+}
+
+.logo__tagline,
+.brainbox-logo__tagline {
+  display: flex;
+  gap: 0.48rem;
+  padding-top: 4px;
   margin-top: 3px;
   font-size: 0.72rem;
-  color: #8ce0c5;
   text-transform: lowercase;
-  letter-spacing: 0.08em;
-  border-top-color: rgba(255, 255, 255, 0.24);
+  letter-spacing: 0.075em;
+  border-top: 0;
+}
+
+.brainbox-logo__think {
+  color: #67c9ff;
+}
+
+.brainbox-logo__build {
+  color: #f0a03a;
+}
+
+.brainbox-logo__embed {
+  color: #69d8ad;
 }
 
 .header__top {
@@ -228,20 +288,22 @@ html[data-theme="light"] th {
 
 @media screen and (max-width: 620px) {
   .header {
-    background-position: center, right center;
-    background-size: cover, 112% auto;
+    background-position: center, 58% center, 58% center;
+    background-size: cover, 145% auto, 145% auto;
   }
 
   .logo {
     padding: 10px 16px 8px;
   }
 
-  .logo__title {
-    font-size: 1.45rem;
+  .logo__title,
+  .brainbox-logo__wordmark {
+    font-size: 1.55rem;
   }
 
-  .logo__tagline {
-    font-size: 0.68rem;
+  .logo__tagline,
+  .brainbox-logo__tagline {
+    font-size: 0.66rem;
   }
 }
 
