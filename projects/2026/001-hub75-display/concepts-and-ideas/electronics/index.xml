@@ -19,14 +19,12 @@
  alt="Evemodel PCB005 power distribution board with two rows of screw terminals"
  loading="lazy"&gt;
  &lt;/a&gt;
- &lt;figcaption class="reference-example__source"&gt;
- &lt;em&gt;Image/source: &lt;a href="https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage" target="_blank" rel="noopener noreferrer"&gt;RJ&amp;#39;s Trains&lt;/a&gt;&lt;/em&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage" target="_blank" rel="noopener noreferrer"&gt;RJ&amp;#39;s Trains&lt;/a&gt;&lt;/span&gt;
  &lt;/figcaption&gt;
  &lt;/figure&gt;
-
- &lt;div class="reference-example__details"&gt;
- &lt;strong&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/div&gt;
- &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class="reference-example"&gt;
@@ -37,14 +35,12 @@
  alt="WayinTop double-layer power distribution boards"
  loading="lazy"&gt;
  &lt;/a&gt;
- &lt;figcaption class="reference-example__source"&gt;
- &lt;em&gt;Image/source: &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;Amazon&lt;/a&gt;&lt;/em&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;Amazon&lt;/a&gt;&lt;/span&gt;
  &lt;/figcaption&gt;
  &lt;/figure&gt;
-
- &lt;div class="reference-example__details"&gt;
- &lt;strong&gt;&lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/div&gt;
- &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2 id="plug-in-distribution"&gt;Plug-in distribution&lt;/h2&gt;
@@ -56,14 +52,12 @@
  alt="Building Block Robotics XT30 power distribution board"
  loading="lazy"&gt;
  &lt;/a&gt;
- &lt;figcaption class="reference-example__source"&gt;
- &lt;em&gt;Image/source: &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics&lt;/a&gt;&lt;/em&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics&lt;/a&gt;&lt;/span&gt;
  &lt;/figcaption&gt;
  &lt;/figure&gt;
-
- &lt;div class="reference-example__details"&gt;
- &lt;strong&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/div&gt;
- &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class="reference-example"&gt;
@@ -74,14 +68,12 @@
  alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure"
  loading="lazy"&gt;
  &lt;/a&gt;
- &lt;figcaption class="reference-example__source"&gt;
- &lt;em&gt;Image/source: &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics&lt;/a&gt;&lt;/em&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics XT30 6-port parallel power distribution board&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;One XT30 input feeding six parallel XT30 outputs in a compact PLA protective enclosure.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics&lt;/a&gt;&lt;/span&gt;
  &lt;/figcaption&gt;
  &lt;/figure&gt;
-
- &lt;div class="reference-example__details"&gt;
- &lt;strong&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics XT30 6-port parallel power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One XT30 input feeding six parallel XT30 outputs in a compact PLA protective enclosure.&lt;/div&gt;
- &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2 id="what-is-useful-for-our-concept"&gt;What is useful for our concept&lt;/h2&gt;

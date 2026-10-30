@@ -263,16 +263,22 @@
 
 
 /*
- * External reference images use a semantic figure so attribution stays
- * visually attached to the image, following the older linkedimgproc pattern.
+ * External reference images use a semantic figure.
+ *
+ * Keep three things visually distinct:
+ * 1. the page/product heading above the figure;
+ * 2. the image caption and optional explanatory note;
+ * 3. the muted source attribution.
+ *
+ * The actual specifications and other page content start after the figure.
  */
 .reference-example {
-  margin: 1.2rem 0 2rem;
+  margin: 0.9rem 0 1.35rem;
 }
 
 .reference-example__figure {
-  max-width: 300px;
-  margin: 0 0 0.55rem;
+  max-width: 320px;
+  margin: 0;
 }
 
 .reference-example__image {
@@ -281,11 +287,39 @@
   height: auto;
 }
 
+.reference-example__figcaption {
+  margin-top: 0.45rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--color-border);
+  line-height: 1.4;
+}
+
+.reference-example__caption {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.reference-example__caption a {
+  text-decoration: none;
+}
+
+.reference-example__note {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
 .reference-example__source {
+  display: block;
   margin-top: 0.2rem;
-  color: #777;
-  font-size: 0.8em;
-  line-height: 1.35;
+  color: var(--color-text-subtle);
+  font-size: 0.75rem;
+}
+
+.reference-example__source a {
+  color: inherit;
 }
 
 .reference-example__details {
