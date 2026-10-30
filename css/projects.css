@@ -291,3 +291,92 @@
 .reference-example__details {
   margin: 0;
 }
+
+
+/*
+ * Homepage project grid.
+ * Keep it lightweight: no card chrome, just a compact two-column overview.
+ */
+.home-projects {
+  margin-top: 2.5rem;
+}
+
+.home-section__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.home-section__header h2,
+.home-section__intro {
+  margin-bottom: 0;
+}
+
+.home-section__intro {
+  margin-top: 0.3rem;
+  color: #666;
+}
+
+.home-section__more {
+  flex: 0 0 auto;
+  font-size: 0.875rem;
+}
+
+.home-project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem 2rem;
+}
+
+.home-project {
+  min-width: 0;
+}
+
+.home-project__image {
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+.home-project__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.home-project__title {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.home-project__meta {
+  margin-top: 0.25rem;
+  color: #666;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.home-project__summary,
+.home-project__activity {
+  margin: 0.55rem 0 0;
+}
+
+.home-project__activity {
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 620px) {
+  .home-section__header {
+    display: block;
+  }
+
+  .home-section__more {
+    display: inline-block;
+    margin-top: 0.6rem;
+  }
+
+  .home-project-grid {
+    grid-template-columns: 1fr;
+  }
+}
