@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BrainboxEmb Notes</title><link>https://brainboxemb.github.io/site.notes2/</link><description>Recent content on BrainboxEmb Notes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://brainboxemb.github.io/site.notes2/index.xml" rel="self" type="application/rss+xml"/><item><title>Parts and Suppliers</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/parts-and-suppliers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/parts-and-suppliers/</guid><description>&lt;p&gt;Possible parts and suppliers for the HUB75 LED matrix display project, including the DIN rail, recessed handle, case latch and power cable.&lt;/p&gt;
 &lt;h2 id="din-rail"&gt;DIN rail&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/parts-and-suppliers/images/conrad-mean-well-ts35-7-5-1000-al.jpg" alt="Mean Well DIN rail"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: Conrad — &lt;a href="https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html"&gt;https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html"&gt;Conrad&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html"&gt;Conrad — Mean Well TS35/7.5-1000-AL DIN rail&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Aluminium DIN rail, 1000 mm long. Manufacturer part number: TS35/7.5-1000-AL.&lt;/p&gt;
 &lt;h2 id="handle"&gt;Handle&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/information/parts-and-suppliers/images/fritz-events-penn-elcom-h1025-handle.jpg" alt="Penn Elcom H1025 recessed corner handle"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: Fritz-Events — &lt;a href="https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html"&gt;https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html"&gt;Fritz-Events&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html"&gt;Fritz-Events — Penn Elcom H1025 recessed corner handle&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.aweo.de/Penn-Elcom-H1025-Kanteneinbaugriff-schwarz"&gt;Additional picture at Aweo&lt;/a&gt;&lt;/li&gt;
@@ -126,60 +126,76 @@
 &lt;p&gt;The five HUB75 panels will be mounted to the frame using custom brackets.&lt;/p&gt;</description></item><item><title>Power Distribution Examples</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</guid><description>&lt;p&gt;Examples that inspired the HUB75 power-distribution concept.&lt;/p&gt;
 &lt;p&gt;These are &lt;strong&gt;references, not the proposed design&lt;/strong&gt;. Where a verified reference image is available, it is shown as a small thumbnail (maximum 300 px wide). Clicking an image or product name opens the original product page, and the image source is written out explicitly below the thumbnail.&lt;/p&gt;
 &lt;h2 id="screw-terminal-distribution"&gt;Screw-terminal distribution&lt;/h2&gt;
-&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/rjs-trains-evemodel-pcb005-w320.webp" alt="Evemodel PCB005 power distribution board with two rows of screw terminals" loading="lazy"
- style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/rjs-trains-evemodel-pcb005-w320.webp"
+ alt="Evemodel PCB005 power distribution board with two rows of screw terminals"
+ loading="lazy"&gt;
  &lt;/a&gt;
+ &lt;figcaption class="reference-example__source"&gt;
+ &lt;em&gt;Image/source: &lt;a href="https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage" target="_blank" rel="noopener noreferrer"&gt;RJ&amp;#39;s Trains&lt;/a&gt;&lt;/em&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
 
- &lt;div&gt;
+ &lt;div class="reference-example__details"&gt;
  &lt;strong&gt;&lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;Evemodel PCB005 power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Useful reference for a central input feeding two long rows of screw-terminal outputs.&lt;/div&gt;
- &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
- &lt;em&gt;Image/source: RJ&amp;#39;s Trains — same Evemodel PCB005 product — &lt;a href="https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage" target="_blank" rel="noopener noreferrer"&gt;https://rjstrains.com/products/evemodel-pcb005-1x-power-distribution-board-3-inputs-2-x-10-outputs-for-dc-ac-voltage&lt;/a&gt;&lt;/em&gt;
- &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/amazon-wayintop-power-distribution-w320.webp" alt="WayinTop double-layer power distribution boards" loading="lazy"
- style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/amazon-wayintop-power-distribution-w320.webp"
+ alt="WayinTop double-layer power distribution boards"
+ loading="lazy"&gt;
  &lt;/a&gt;
+ &lt;figcaption class="reference-example__source"&gt;
+ &lt;em&gt;Image/source: &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;Amazon&lt;/a&gt;&lt;/em&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
 
- &lt;div&gt;
+ &lt;div class="reference-example__details"&gt;
  &lt;strong&gt;&lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;WayinTop double-layer power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;Reference for separate positive and negative rails with many repeated screw-terminal positions.&lt;/div&gt;
- &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
- &lt;em&gt;Image/source: Amazon product page for the WayinTop board — &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;https://www.amazon.nl/dp/B093PWRJS9&lt;/a&gt;&lt;/em&gt;
- &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2 id="plug-in-distribution"&gt;Plug-in distribution&lt;/h2&gt;
-&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/building-block-robotics-xt30-power-distribution-w320.webp" alt="Building Block Robotics XT30 power distribution board" loading="lazy"
- style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/building-block-robotics-xt30-power-distribution-w320.webp"
+ alt="Building Block Robotics XT30 power distribution board"
+ loading="lazy"&gt;
  &lt;/a&gt;
+ &lt;figcaption class="reference-example__source"&gt;
+ &lt;em&gt;Image/source: &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics&lt;/a&gt;&lt;/em&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
 
- &lt;div&gt;
+ &lt;div class="reference-example__details"&gt;
  &lt;strong&gt;&lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;Building Block Robotics XT30 Power Distribution Board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One input feeding three compact, individually disconnectable XT30 outputs.&lt;/div&gt;
- &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
- &lt;em&gt;Image/source: Building Block Robotics — &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;https://buildingblockrobotics.com/products/xt30-power-distribution-board&lt;/a&gt;&lt;/em&gt;
- &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="reference-example" style="margin: 1.2rem 0 2rem;"&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;
- &lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/eckstein-robotics-xt30-6-port-power-distribution-w320.webp" alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure" loading="lazy"
- style="display:block;max-width:300px;width:100%;height:auto;margin:0 0 .5rem;"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/eckstein-robotics-xt30-6-port-power-distribution-w320.webp"
+ alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure"
+ loading="lazy"&gt;
  &lt;/a&gt;
+ &lt;figcaption class="reference-example__source"&gt;
+ &lt;em&gt;Image/source: &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics&lt;/a&gt;&lt;/em&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
 
- &lt;div&gt;
+ &lt;div class="reference-example__details"&gt;
  &lt;strong&gt;&lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;Eckstein Robotics XT30 6-port parallel power distribution board&lt;/a&gt;&lt;/strong&gt;&lt;div&gt;One XT30 input feeding six parallel XT30 outputs in a compact PLA protective enclosure.&lt;/div&gt;
- &lt;div style="font-size:.8em;opacity:.8;margin-top:.2rem;"&gt;
- &lt;em&gt;Image/source: Eckstein Robotics — &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case&lt;/a&gt;&lt;/em&gt;
- &lt;/div&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 
@@ -269,12 +285,12 @@
 &lt;li&gt;&lt;a href="https://hackaday.com/2021/02/23/useful-build-tips-for-making-led-panel-frames/"&gt;Useful Build Tips for Making LED Panel Frames&lt;/a&gt; — notes about measurements, magnetic mounting, wiring, DIN rail, controller mounting and power supplies.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/aluminium-extrusion-frame/images/instructables-simple-extruded-aluminum-frame-led-panels.webp" alt="Simple extruded aluminium frame for LED panels"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: Instructables — &lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Hinge Ideas</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</guid><description>&lt;p&gt;This page contains 3D-printable hinge ideas for the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;Instructables&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Hinge Ideas</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</guid><description>&lt;p&gt;This page contains 3D-printable hinge ideas for the HUB75 display enclosure.&lt;/p&gt;
 &lt;p&gt;The examples are possible starting points rather than final selections.&lt;/p&gt;
 &lt;h2 id="stop-hinge"&gt;Stop hinge&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;MakerWorld — Stop Hinge&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/images/makerworld-stop-hinge-w320.webp" alt="3D-printed stop hinge"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: MakerWorld — &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;MakerWorld&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This hinge has an integrated stop that limits its maximum opening angle.&lt;/p&gt;
 &lt;p&gt;It may be useful for a lid or support panel that must stop at a defined angle without a separate cable or support arm.&lt;/p&gt;
 &lt;h2 id="180-degree-strong-hinge"&gt;180-degree strong hinge&lt;/h2&gt;

@@ -260,3 +260,34 @@
   }
 }
 
+
+
+/*
+ * External reference images use a semantic figure so attribution stays
+ * visually attached to the image, following the older linkedimgproc pattern.
+ */
+.reference-example {
+  margin: 1.2rem 0 2rem;
+}
+
+.reference-example__figure {
+  max-width: 300px;
+  margin: 0 0 0.55rem;
+}
+
+.reference-example__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.reference-example__source {
+  margin-top: 0.2rem;
+  color: #777;
+  font-size: 0.8em;
+  line-height: 1.35;
+}
+
+.reference-example__details {
+  margin: 0;
+}
