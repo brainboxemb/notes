@@ -76,12 +76,25 @@
 	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;The power-distribution items above correspond to the &lt;a href="../../../concepts-and-ideas/electronics/power-connections/"&gt;current power-distribution prototype concept&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Woodworking Videos</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</guid><description>&lt;p&gt;Useful woodworking videos for building and finishing the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;The videos below are kept as practical references. The thumbnail is stored locally with this page; clicking the image or title opens the original YouTube video.&lt;/p&gt;
 &lt;h2 id="finishing-plywood-edges-with-solid-oak"&gt;Finishing plywood edges with solid oak&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0"&gt;YouTube — Using oak on the exposed edges of plywood&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This video shows how solid oak can be applied to the exposed edges of plywood.&lt;/p&gt;
-&lt;p&gt;This may be useful for the enclosure because plywood edges remain visible after cutting. Adding a strip of solid oak can provide a cleaner and more durable edge than filling or painting the plywood edge directly.&lt;/p&gt;</description></item><item><title>Wooden Enclosure Design Considerations</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/wooden-enclosure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/wooden-enclosure/</guid><description>&lt;p&gt;Two enclosure concepts are currently being considered for the HUB75 LED matrix display.&lt;/p&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/images/youtube-oak-plywood-edges-w320.webp"
+ alt="YouTube thumbnail for a video about finishing exposed plywood edges with solid oak"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;YouTube — Using oak on the exposed edges of plywood&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Shows how a strip of solid oak can be applied to an exposed plywood edge for a cleaner and more durable finish.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;YouTube&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This may be useful for the enclosure because plywood edges remain visible after cutting.&lt;/p&gt;</description></item><item><title>Wooden Enclosure Design Considerations</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/wooden-enclosure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/wooden-enclosure/</guid><description>&lt;p&gt;Two enclosure concepts are currently being considered for the HUB75 LED matrix display.&lt;/p&gt;
 &lt;h2 id="rear-assembly"&gt;Rear assembly&lt;/h2&gt;
 &lt;p&gt;In this concept, the enclosure is assembled from the rear.&lt;/p&gt;
 &lt;p&gt;The display panels, electronics and other internal parts are mounted from the back of the enclosure.&lt;/p&gt;

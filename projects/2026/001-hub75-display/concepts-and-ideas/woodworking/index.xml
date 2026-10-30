@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Woodworking on brainboxemb</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/</link><description>Recent content in Woodworking on brainboxemb</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/index.xml" rel="self" type="application/rss+xml"/><item><title>Woodworking Videos</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/</guid><description>&lt;p&gt;Useful woodworking videos for building and finishing the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;The videos below are kept as practical references. The thumbnail is stored locally with this page; clicking the image or title opens the original YouTube video.&lt;/p&gt;
 &lt;h2 id="finishing-plywood-edges-with-solid-oak"&gt;Finishing plywood edges with solid oak&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0"&gt;YouTube — Using oak on the exposed edges of plywood&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This video shows how solid oak can be applied to the exposed edges of plywood.&lt;/p&gt;
-&lt;p&gt;This may be useful for the enclosure because plywood edges remain visible after cutting. Adding a strip of solid oak can provide a cleaner and more durable edge than filling or painting the plywood edge directly.&lt;/p&gt;</description></item></channel></rss>
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/woodworking/videos/images/youtube-oak-plywood-edges-w320.webp"
+ alt="YouTube thumbnail for a video about finishing exposed plywood edges with solid oak"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;YouTube — Using oak on the exposed edges of plywood&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Shows how a strip of solid oak can be applied to an exposed plywood edge for a cleaner and more durable finish.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://www.youtube.com/watch?v=qbDb97wQ-r0" target="_blank" rel="noopener noreferrer"&gt;YouTube&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This may be useful for the enclosure because plywood edges remain visible after cutting.&lt;/p&gt;</description></item></channel></rss>
