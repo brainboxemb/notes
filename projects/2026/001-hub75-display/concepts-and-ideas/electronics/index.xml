@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronics on brainboxemb</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/</link><description>Recent content in Electronics on brainboxemb</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>HUB75 Power Connections</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</guid><description>&lt;p&gt;A prototype concept for distributing 5 V power from one supply to the HUB75 LED matrix panels.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronics on brainboxemb</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/</link><description>Recent content in Electronics on brainboxemb</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>HUB75 Power Connections</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/</guid><description>&lt;p&gt;A prototype concept for distributing 5 V power from one supply to the HUB75 LED matrix panels.&lt;/p&gt;
 &lt;h2 id="proposed-concept"&gt;Proposed concept&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/images/power-distribution-concept.svg" alt="HUB75 power distribution prototype concept"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-connections/images/power-distribution-concept.svg" alt="HUB75 power distribution prototype concept"&gt;&lt;/p&gt;
 &lt;p&gt;The prototype is deliberately simple:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;1 × removable 20 A input&lt;/strong&gt; for the main 5 V supply;&lt;/li&gt;
@@ -8,14 +8,14 @@
 &lt;li&gt;&lt;strong&gt;1 × additional 2-pole 10 A screw terminal&lt;/strong&gt; for PCB / auxiliary 5 V;&lt;/li&gt;
 &lt;li&gt;all mounted on a &lt;strong&gt;4 × 6 cm double-sided experiment PCB&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The two 4-pole barrier strips provide eight screw positions in total. Five positions are intended for the five HUB75 panel feeds, leaving three spare positions.&lt;/p&gt;</description></item><item><title>Power Distribution Examples</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</guid><description>&lt;p&gt;Examples that inspired the HUB75 power-distribution concept.&lt;/p&gt;
+&lt;p&gt;The two 4-pole barrier strips provide eight screw positions in total. Five positions are intended for the five HUB75 panel feeds, leaving three spare positions.&lt;/p&gt;</description></item><item><title>Power Distribution Examples</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/</guid><description>&lt;p&gt;Examples that inspired the HUB75 power-distribution concept.&lt;/p&gt;
 &lt;p&gt;These are &lt;strong&gt;references, not the proposed design&lt;/strong&gt;. Where a verified reference image is available, it is shown as a small thumbnail (maximum 300 px wide). Clicking an image or product name opens the original product page, and the image source is written out explicitly below the thumbnail.&lt;/p&gt;
 &lt;h2 id="screw-terminal-distribution"&gt;Screw-terminal distribution&lt;/h2&gt;
 &lt;div class="reference-example"&gt;
  &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://www.amazon.nl/Evemodel-Distribution-Ingangen-Uitgangen-Voltage/dp/B08149N2Y2" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img class="reference-example__image"
- src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/rjs-trains-evemodel-pcb005-w320.webp"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/rjs-trains-evemodel-pcb005-w320.webp"
  alt="Evemodel PCB005 power distribution board with two rows of screw terminals"
  loading="lazy"&gt;
  &lt;/a&gt;
@@ -31,7 +31,7 @@
  &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://www.amazon.nl/dp/B093PWRJS9" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img class="reference-example__image"
- src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/amazon-wayintop-power-distribution-w320.webp"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/amazon-wayintop-power-distribution-w320.webp"
  alt="WayinTop double-layer power distribution boards"
  loading="lazy"&gt;
  &lt;/a&gt;
@@ -48,7 +48,7 @@
  &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://buildingblockrobotics.com/products/xt30-power-distribution-board" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img class="reference-example__image"
- src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/building-block-robotics-xt30-power-distribution-w320.webp"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/building-block-robotics-xt30-power-distribution-w320.webp"
  alt="Building Block Robotics XT30 power distribution board"
  loading="lazy"&gt;
  &lt;/a&gt;
@@ -64,7 +64,7 @@
  &lt;figure class="reference-example__figure"&gt;
  &lt;a href="https://eckstein-shop.de/xt30-6-port-parallel-power-distribution-board-pla-case" target="_blank" rel="noopener noreferrer"&gt;
  &lt;img class="reference-example__image"
- src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/eckstein-robotics-xt30-6-port-power-distribution-w320.webp"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/electronics/power-distribution-examples/images/eckstein-robotics-xt30-6-port-power-distribution-w320.webp"
  alt="Eckstein ER-OA001 XT30 6-port parallel power distribution board in a PLA enclosure"
  loading="lazy"&gt;
  &lt;/a&gt;
