@@ -1,0 +1,116 @@
+/*
+ * Daily and homepage source feed.
+ * Keep the presentation text-first and close to Roadster's native styling.
+ */
+
+.daily-topics {
+  margin-top: 0.35rem;
+  color: #666;
+  font-size: 0.82rem;
+}
+
+.daily-topic + .daily-topic::before {
+  content: " · ";
+}
+
+.daily-summary__source,
+.daily-source-link,
+.daily-source-overview__website,
+.daily-empty {
+  font-size: 0.875rem;
+}
+
+.daily-source-overview {
+  margin-top: 2.25rem;
+}
+
+.daily-source-overview + .daily-source-overview {
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.home-follow {
+  margin-top: 2.5rem;
+}
+
+.home-follow__intro {
+  margin-bottom: 1.5rem;
+}
+
+.home-source {
+  padding: 1rem 0 1.15rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.home-source__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.home-source__title {
+  margin: 0 0 0.55rem;
+}
+
+.home-source__domain {
+  font-size: 0.72em;
+  font-weight: 400;
+}
+
+.home-source__domain a {
+  color: #666;
+}
+
+.home-source__archive {
+  flex: 0 0 auto;
+  font-size: 0.875rem;
+}
+
+.home-source__entries {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-source__entry {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr) auto;
+  gap: 0.7rem;
+  align-items: baseline;
+  padding: 0.28rem 0;
+}
+
+.home-source__entry time {
+  color: #666;
+  font-size: 0.82rem;
+}
+
+.home-source__topics {
+  display: block;
+  color: #777;
+  font-size: 0.78rem;
+}
+
+.home-source__external {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 620px) {
+  .home-source__header {
+    display: block;
+  }
+
+  .home-source__archive {
+    display: inline-block;
+    margin-bottom: 0.6rem;
+  }
+
+  .home-source__entry {
+    grid-template-columns: 1fr auto;
+  }
+
+  .home-source__entry time {
+    grid-column: 1 / -1;
+  }
+}
