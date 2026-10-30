@@ -108,13 +108,24 @@
 &lt;li&gt;&lt;a href="https://hackaday.com/2021/02/23/useful-build-tips-for-making-led-panel-frames/"&gt;Useful Build Tips for Making LED Panel Frames&lt;/a&gt; — notes about measurements, magnetic mounting, wiring, DIN rail, controller mounting and power supplies.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/aluminium-extrusion-frame/images/instructables-simple-extruded-aluminum-frame-led-panels.webp" alt="Simple extruded aluminium frame for LED panels"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;Instructables&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Hinge Ideas</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</guid><description>&lt;p&gt;This page contains 3D-printable hinge ideas for the HUB75 display enclosure.&lt;/p&gt;
-&lt;p&gt;The examples are possible starting points rather than final selections.&lt;/p&gt;
-&lt;h2 id="stop-hinge"&gt;Stop hinge&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;MakerWorld — Stop Hinge&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;&lt;img src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/images/makerworld-stop-hinge-w320.webp" alt="3D-printed stop hinge"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394"&gt;MakerWorld&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;This hinge has an integrated stop that limits its maximum opening angle.&lt;/p&gt;
-&lt;p&gt;It may be useful for a lid or support panel that must stop at a defined angle without a separate cable or support arm.&lt;/p&gt;
-&lt;h2 id="180-degree-strong-hinge"&gt;180-degree strong hinge&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://makerworld.com/nl/models/243010-180deg-strong-hinge-36mm#profileId-259247"&gt;MakerWorld — 180° Strong Hinge, 36 mm&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;em&gt;Image/source: &lt;a href="https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/"&gt;Instructables&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Hinge Ideas</title><link>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/</guid><description>&lt;p&gt;This page collects &lt;strong&gt;3D-printable hinge ideas and real-world mechanism references&lt;/strong&gt; for the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;The examples are starting points rather than final selections. The main questions are how far the panel must open, whether the hinge should remain hidden when closed, and how much clearance the mechanism needs around the enclosure edge.&lt;/p&gt;
+&lt;h2 id="stop-and-180-degree-hinges"&gt;Stop and 180-degree hinges&lt;/h2&gt;
+&lt;h3 id="stop-hinge"&gt;Stop hinge&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/site.notes2/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/hinges/images/makerworld-stop-hinge-w320.webp"
+ alt="3D-printed stop hinge"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;MakerWorld — Stop Hinge&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;A printable hinge with an integrated stop that limits its maximum opening angle.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;MakerWorld&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This may be useful for a lid or support panel that must stop at a defined angle without a separate cable or support arm.&lt;/p&gt;</description></item></channel></rss>
