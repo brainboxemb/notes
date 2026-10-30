@@ -114,3 +114,58 @@
     grid-column: 1 / -1;
   }
 }
+
+
+/* Optional Daily reference thumbnails. */
+.daily-summary__layout {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.daily-summary__image {
+  flex: 0 0 180px;
+  max-width: 180px;
+  margin: 0;
+}
+
+.daily-summary__image img,
+.daily-entry__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.daily-summary__image figcaption,
+.daily-entry__image figcaption {
+  margin-top: 0.25rem;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  color: #777;
+}
+
+.daily-summary__content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.daily-entry__image {
+  float: right;
+  width: 180px;
+  max-width: 180px;
+  margin: 0 0 1rem 1rem;
+}
+
+@media screen and (max-width: 620px) {
+  .daily-summary__layout {
+    display: block;
+  }
+
+  .daily-summary__image,
+  .daily-entry__image {
+    float: none;
+    width: auto;
+    max-width: 180px;
+    margin: 0 0 0.75rem;
+  }
+}

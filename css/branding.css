@@ -1,5 +1,5 @@
 /*
- * Brainbox Embedded site branding
+ * BrainboxEmb Notes site branding
  *
  * Keep Roadster's layout and components, but align the visual language with
  * https://brainboxemb.github.io/: dark navy, green accents, blue links and
@@ -76,6 +76,43 @@ body {
   text-transform: lowercase;
   letter-spacing: 0.08em;
   border-top-color: rgba(255, 255, 255, 0.24);
+}
+
+.header__top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.header-ai-notice {
+  margin: 14px 22px 0 0;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.header-ai-notice a {
+  color: #8ce0c5;
+  font-weight: 700;
+}
+
+.header-ai-notice a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 620px) {
+  .header__top {
+    display: block;
+  }
+
+  .header-ai-notice {
+    margin: 0 16px 8px;
+    font-size: 0.66rem;
+    text-align: left;
+  }
 }
 
 /* Navigation */
