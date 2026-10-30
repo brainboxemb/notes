@@ -40,16 +40,16 @@ body {
   background-color: var(--brainbox-navy);
   background-image:
     linear-gradient(90deg,
-      var(--brainbox-navy) 0%,
-      var(--brainbox-navy) 42%,
-      rgba(11, 49, 84, 0.94) 52%,
-      rgba(11, 49, 84, 0.35) 72%,
-      rgba(11, 49, 84, 0.08) 100%
+      rgba(8, 41, 70, 0.99) 0%,
+      rgba(8, 41, 70, 0.97) 30%,
+      rgba(8, 41, 70, 0.92) 50%,
+      rgba(8, 41, 70, 0.82) 72%,
+      rgba(8, 41, 70, 0.68) 100%
     ),
-    url("../images/header-circuit.svg");
+    url("../images/header-brain-pcb.webp");
   background-position: center, right center;
   background-repeat: no-repeat;
-  background-size: cover, 58% 100%;
+  background-size: cover, 100% auto;
   border-top: 3px solid var(--brainbox-green);
   border-bottom: 3px solid var(--brainbox-green);
 }
@@ -229,7 +229,7 @@ html[data-theme="light"] th {
 @media screen and (max-width: 620px) {
   .header {
     background-position: center, right center;
-    background-size: cover, 72% 100%;
+    background-size: cover, 112% auto;
   }
 
   .logo {
