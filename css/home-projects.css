@@ -1,7 +1,4 @@
-/*
- * Homepage active-project overview.
- * Separate file so homepage layout changes are not hidden by a cached projects.css.
- */
+/* Homepage layout: active projects, followed websites and responsive cards. */
 
 .home-projects,
 .home-follow {
@@ -43,7 +40,7 @@
 
 .home-section__intro {
   margin-top: 0.3rem;
-  color: #666;
+  color: var(--color-text-muted);
 }
 
 .home-section__more {
@@ -96,7 +93,7 @@
 
 .home-project__meta {
   margin-top: 0.25rem;
-  color: #666;
+  color: var(--color-text-muted);
   font-size: 0.8rem;
   line-height: 1.4;
 }

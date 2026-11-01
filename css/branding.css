@@ -238,10 +238,6 @@ blockquote {
   border-bottom-color: var(--brainbox-green);
 }
 
-.project-child-summary__arrow {
-  color: var(--brainbox-green);
-}
-
 html[data-theme="light"] th {
   color: var(--brainbox-navy);
   background: var(--brainbox-soft);
