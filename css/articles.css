@@ -39,31 +39,6 @@
   line-height: 1.5;
 }
 
-.article-meta__type {
-  font-weight: 700;
-  letter-spacing: 0.035em;
-  text-transform: uppercase;
-}
-
-.article-meta__status {
-  display: inline-block;
-  padding: 0.05rem 0.5rem;
-  border: 1px solid var(--color-border-strong);
-  border-radius: 999px;
-  font-weight: 650;
-}
-
-.article-meta__status--investigating,
-.article-meta__status--open {
-  color: var(--brainbox-green, #24977c);
-  border-color: currentColor;
-}
-
-.article-meta__status--resolved {
-  color: var(--brainbox-link, #125fc6);
-  border-color: currentColor;
-}
-
 .article-meta__date strong {
   font-weight: 600;
 }
