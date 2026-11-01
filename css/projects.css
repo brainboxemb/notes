@@ -13,19 +13,62 @@
   display: block;
 }
 
-.project-list__meta,
-.project-list__tags {
+.project-list__meta {
   color: #666;
   font-size: 0.875rem;
   line-height: 1.45;
 }
 
+/* Project topics are navigation, not paragraph text.
+ * One unobtrusive tag icon labels the row; topic links remain easy to scan. */
 .project-list__tags {
-  margin-top: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.4rem;
+  margin: 0.7rem 0 0.8rem;
+  line-height: 1.45;
+  font-size: 0.825rem;
 }
 
-.project-list__tags a {
-  color: inherit;
+.project-list__tags-icon {
+  display: inline-flex;
+  flex: 0 0 1.55rem;
+  width: 1.55rem;
+  height: 1.55rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.15rem;
+  border-radius: 2px;
+  background: var(--brainbox-green);
+  color: #fff;
+}
+
+.project-list__tags-icon svg {
+  display: block;
+  width: 0.92rem;
+  height: 0.92rem;
+}
+
+.project-list__tags .project-list__tag {
+  display: inline-block;
+  padding: 0.12rem 0.45rem;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 2px;
+  color: var(--color-text);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.project-list__tags .project-list__tag:hover,
+.project-list__tags .project-list__tag:focus-visible {
+  border-color: var(--brainbox-green);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.project-overview-meta .project-list__tags {
+  margin: 0.75rem 0 0.8rem;
 }
 
 .project-list__activity {
