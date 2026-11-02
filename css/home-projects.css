@@ -136,3 +136,8 @@
     height: 90px;
   }
 }
+
+/* The text fills the full card when a project has no illustration. */
+.home .home-project.home-project--no-image {
+  grid-template-columns: minmax(0, 1fr);
+}

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Illustration of a stopwatch, two relay runners exchanging a baton, and a wooded running route">
+  <rect width="1200" height="800" fill="#eef3f3"/>
+
+  <!-- A lightly wooded route evokes a cross-country relay, without referring to a particular event. -->
+  <g fill="#d7e6e0">
+    <path d="M525 505l52-149 52 149z"/><path d="M542 450l35-130 35 130z"/>
+    <path d="M1082 506l43-134 43 134z"/><path d="M1093 458l32-126 32 126z"/>
+    <path d="M1010 520l38-121 38 121z"/>
+  </g>
+  <g fill="none" stroke="#c8dad4" stroke-width="9" stroke-linecap="round">
+    <path d="M577 469v104"/><path d="M1125 476v100"/><path d="M1048 495v76"/>
+  </g>
+  <path d="M0 629C234 598 345 670 562 632S940 603 1200 642V800H0z" fill="#e3eae4"/>
+  <path d="M0 655C235 628 333 687 563 657S965 636 1200 666" fill="none" stroke="#cad7cf" stroke-width="13" stroke-linecap="round"/>
+  <ellipse cx="628" cy="691" rx="504" ry="28" fill="#d6e1dc"/>
+
+  <!-- Stopwatch: the timing application. -->
+  <rect x="239" y="161" width="92" height="48" rx="10" fill="#2e424b"/>
+  <rect x="223" y="144" width="124" height="31" rx="9" fill="#415a62"/>
+  <rect x="404" y="215" width="61" height="27" rx="7" transform="rotate(43 404 215)" fill="#415a62"/>
+  <circle cx="282" cy="402" r="190" fill="#2e424b"/>
+  <circle cx="282" cy="402" r="166" fill="#fbfdfb"/>
+  <circle cx="282" cy="402" r="142" fill="none" stroke="#d9e6e4" stroke-width="13"/>
+  <path d="M282 260a142 142 0 0 1 129 83" fill="none" stroke="#e5a451" stroke-width="17" stroke-linecap="round"/>
+  <g stroke="#7e9b9f" stroke-width="10" stroke-linecap="round">
+    <path d="M282 286v23"/><path d="M424 402h-23"/><path d="M282 544v-23"/><path d="M140 402h23"/>
+  </g>
+  <path d="M282 402V316" stroke="#304b57" stroke-width="19" stroke-linecap="round"/>
+  <path d="M282 402l91 50" stroke="#67b7b0" stroke-width="19" stroke-linecap="round"/>
+  <circle cx="282" cy="402" r="24" fill="#e5a451" stroke="#304b57" stroke-width="8"/>
+
+  <!-- Runner one: passing the baton. Rounded shapes stay legible as a small site thumbnail. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M557 447L507 536L451 562" stroke="#2f6d72" stroke-width="36"/>
+    <path d="M558 448L639 500L672 576" stroke="#2f6d72" stroke-width="36"/>
+    <path d="M598 350L542 377L514 343" stroke="#2f6d72" stroke-width="27"/>
+    <path d="M607 352L670 365L736 342" stroke="#2f6d72" stroke-width="28"/>
+    <path d="M607 340L557 447" stroke="#2f6d72" stroke-width="48"/>
+  </g>
+  <circle cx="618" cy="285" r="38" fill="#2f6d72"/>
+  <path d="M440 564h33M660 586h37" fill="none" stroke="#264f59" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- Runner two: reaching back to receive it while running forward. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M853 434L793 524L733 548" stroke="#344e60" stroke-width="36"/>
+    <path d="M853 434L934 497L979 566" stroke="#344e60" stroke-width="36"/>
+    <path d="M897 333L848 355L795 347" stroke="#344e60" stroke-width="27"/>
+    <path d="M907 338L976 379L1024 348" stroke="#344e60" stroke-width="27"/>
+    <path d="M909 320L853 434" stroke="#344e60" stroke-width="48"/>
+  </g>
+  <circle cx="922" cy="265" r="38" fill="#344e60"/>
+  <path d="M720 552h35M963 574h37" fill="none" stroke="#263d4a" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- Bright hand-off baton: the relay-race focal point. -->
+  <path d="M732 340L799 340" fill="none" stroke="#fffdf8" stroke-width="24" stroke-linecap="round"/>
+  <path d="M733 340L798 340" fill="none" stroke="#e4a151" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="740" cy="341" r="12" fill="#2f6d72"/>
+  <circle cx="791" cy="345" r="12" fill="#344e60"/>
+
+  <!-- A small data line suggests that checkpoints synchronize with the timing application. -->
+  <path d="M337 629H502L529 606H692L717 629H923" fill="none" stroke="#83aaa8" stroke-width="9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="2 20"/>
+  <circle cx="503" cy="629" r="13" fill="#e4a151"/>
+  <circle cx="716" cy="629" r="13" fill="#e4a151"/>
+  <circle cx="925" cy="629" r="13" fill="#e4a151"/>
+</svg>
