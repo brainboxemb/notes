@@ -42,6 +42,17 @@
   font-size: 0.875rem;
 }
 
+/* Right arrow: link to a deeper page/section. */
+.section-sidebar .project-local-nav__list--nested > .project-local-nav__item > a::before {
+  content: "→";
+  display: inline-block;
+  width: 0.9em;
+  margin-right: 0.35em;
+  color: var(--color-text-subtle);
+  font-size: 0.85em;
+  font-weight: 400;
+}
+
 .project-local-toc {
   margin: 0.28rem 0 0;
   padding-left: 1rem;
@@ -73,6 +84,17 @@
 .project-local-toc a {
   font-weight: 400;
   text-decoration: none;
+}
+
+/* Down arrow: anchor link to a heading on the current page. */
+.section-sidebar .project-local-toc li > a::before {
+  content: "↓";
+  display: inline-block;
+  width: 0.9em;
+  margin-right: 0.35em;
+  color: var(--color-text-subtle);
+  font-size: 0.85em;
+  font-weight: 400;
 }
 
 /* Consistent desktop sidebar width across the four main sections. */

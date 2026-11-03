@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">M4 fixing to the broad face of a plywood sheet</title>
+<desc id="desc">Both drawings are side-section views of a thin horizontal plywood sheet, not the narrow end of a timber beam. Left: an M4 screw passes through a removable part into a screw-in threaded insert in a blind hole from the broad face. Right: an M4 screw passes through the sheet and engages a T-nut whose flange rests against the back of the sheet.</desc>
+<defs>
+<pattern id="ply" width="42" height="23" patternUnits="userSpaceOnUse"><path d="M1 4Q12 0 28 5T42 4 M0 18Q12 13 27 18T43 17" fill="none" stroke="#aa7b46" stroke-width="1" opacity=".4"/></pattern>
+<marker id="tip" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#467a98"/></marker>
+</defs>
+<rect width="1000" height="440" fill="#fff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#273849">
+<text x="28" y="39" font-size="24" font-weight="700">Fixing a part to the broad face of a plywood panel</text>
+<text x="28" y="62" font-size="14" fill="#617083">Side-section views · panel is lying flat · dimensions not to scale</text>
+<rect x="18" y="79" width="472" height="331" rx="6" fill="#f8fafc" stroke="#cbd4de"/>
+<rect x="510" y="79" width="472" height="331" rx="6" fill="#f8fafc" stroke="#cbd4de"/>
+<text x="37" y="110" font-size="20" font-weight="700">A. Screw-in insert</text>
+<text x="37" y="130" font-size="14" fill="#5b6b7c">Blind hole, all fitted from the top</text>
+<text x="529" y="110" font-size="20" font-weight="700">B. Pronged T-nut</text>
+<text x="529" y="130" font-size="14" fill="#5b6b7c">Through-hole, nut installed from below</text>
+<!-- Panel A is a thin, broad horizontal sheet -->
+<rect x="52" y="239" width="394" height="88" fill="#e9cfa4" stroke="#ae8049" stroke-width="2"/>
+<rect x="52" y="239" width="394" height="88" fill="url(#ply)"/>
+<path d="M52 265H446M52 295H446" stroke="#c19866" stroke-width="2" opacity=".7"/>
+<!-- blind drill -->
+<rect x="223" y="240" width="54" height="58" fill="#f8fafc"/>
+<!-- insert exterior -->
+<path d="M227 244L234 240L240 245L248 240L256 245L264 240L273 245V288L265 294L256 288L248 294L240 288L233 294L227 288Z" fill="#d78d34" stroke="#8b5923" stroke-width="1.8"/>
+<rect x="240" y="241" width="20" height="52" fill="#f8fafc" stroke="#9c652b" stroke-width="1"/>
+<!-- mounted part -->
+<rect x="148" y="216" width="200" height="23" fill="#aabac5" stroke="#657c8b" stroke-width="2"/>
+<rect x="240" y="215" width="20" height="24" fill="#f8fafc"/>
+<!-- bolt -->
+<rect x="244" y="184" width="12" height="90" fill="#5f839d" stroke="#365974" stroke-width="1.4"/>
+<rect x="234" y="173" width="32" height="15" rx="3" fill="#5f839d" stroke="#365974" stroke-width="1.4"/>
+<path d="M244 248l12 7m-12 4l12 7m-12 4l12 7" stroke="#d5e6f0" stroke-width="1.1"/>
+<text x="67" y="187" font-size="14">M4 bolt</text>
+<path d="M132 183L232 184" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="66" y="212" font-size="14">Attached part</text>
+<path d="M159 210L167 218" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="285" y="286" font-size="14" fill="#8b5923" font-weight="700">Insert</text>
+<path d="M282 281L270 276" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="66" y="350" font-size="13" fill="#566777">Plywood sheet, 10 or 18 mm thick</text>
+<text x="37" y="390" font-size="15">The insert grips the wood around the blind hole.</text>
+<!-- Panel B -->
+<rect x="546" y="239" width="394" height="88" fill="#e9cfa4" stroke="#ae8049" stroke-width="2"/>
+<rect x="546" y="239" width="394" height="88" fill="url(#ply)"/>
+<path d="M546 265H940M546 295H940" stroke="#c19866" stroke-width="2" opacity=".7"/>
+<!-- through hole -->
+<rect x="734" y="239" width="27" height="88" fill="#f8fafc"/>
+<!-- attached part -->
+<rect x="644" y="216" width="208" height="23" fill="#aabac5" stroke="#657c8b" stroke-width="2"/>
+<rect x="736" y="216" width="23" height="23" fill="#f8fafc"/>
+<!-- M4 bolt -->
+<rect x="742" y="184" width="12" height="166" fill="#5f839d" stroke="#365974" stroke-width="1.4"/>
+<rect x="732" y="173" width="32" height="15" rx="3" fill="#5f839d" stroke="#365974" stroke-width="1.4"/>
+<path d="M742 318l12 7m-12 4l12 7m-12 4l12 7" stroke="#d5e6f0" stroke-width="1.1"/>
+<!-- T nut sleeve, flange below -->
+<rect x="730" y="297" width="35" height="36" fill="#d78d34" stroke="#8b5923" stroke-width="1.7"/>
+<rect x="724" y="327" width="47" height="12" fill="#d78d34" stroke="#8b5923" stroke-width="1.7"/>
+<path d="M729 327l-8-13h8M766 327l8-13h-8" fill="#d78d34" stroke="#8b5923" stroke-width="1.2"/>
+<!-- clear bore -->
+<rect x="742" y="303" width="12" height="35" fill="#5f839d"/>
+<text x="568" y="187" font-size="14">M4 bolt</text>
+<path d="M636 183L732 184" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="568" y="212" font-size="14">Attached part</text>
+<path d="M660 210L672 218" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="784" y="348" font-size="14" font-weight="700" fill="#8b5923">T-nut flange</text>
+<path d="M779 342L767 335" stroke="#467a98" stroke-width="1.5" marker-end="url(#tip)"/>
+<text x="561" y="365" font-size="13" fill="#566777">Back side of the plywood</text>
+<text x="529" y="390" font-size="15">The flange bears against the underside.</text>
+</g>
+</svg>

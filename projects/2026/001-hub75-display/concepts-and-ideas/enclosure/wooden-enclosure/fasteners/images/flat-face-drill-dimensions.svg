@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 315" role="img" aria-labelledby="title desc">
+<title id="title">Blind hole: diameter versus depth</title>
+<desc id="desc">Single side-section of a flat plywood panel. A blind hole drilled from the broad face has a six-millimetre diameter across the opening and a separate depth into the panel. Wood remains underneath the hole. The plywood may be 10, 12 or 18 millimetres thick, and the drill depth has not yet been determined.</desc>
+<defs>
+<pattern id="plywood" width="40" height="24" patternUnits="userSpaceOnUse"><path d="M0 5Q12 0 27 6T40 4M0 18Q12 12 26 19T40 17" fill="none" stroke="#b88b55" stroke-width="1.2" opacity=".5"/></pattern>
+<marker id="arr" viewBox="0 0 8 8" markerWidth="5" markerHeight="5" refX="4" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#386a8d"/></marker>
+</defs>
+<rect width="900" height="315" fill="#fff"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#213547">
+<text x="24" y="34" font-size="23" font-weight="700">Blind hole for an M4 threaded insert</text>
+<text x="24" y="56" font-size="14" fill="#5b6c7a">Cross-section of a plywood panel — diagram not to scale</text>
+<!-- plywood in side section -->
+<rect x="72" y="127" width="675" height="134" fill="#ecd0a4" stroke="#a87940" stroke-width="2"/>
+<rect x="72" y="127" width="675" height="134" fill="url(#plywood)"/>
+<path d="M72 154H747 M72 184H747 M72 214H747 M72 243H747" stroke="#cba676" opacity=".65" stroke-width="1"/>
+<!-- blind drilled hole from top -->
+<path d="M382 127V216 Q416 235 450 216 V127Z" fill="#fff" stroke="#a87940" stroke-width="2"/>
+<!-- diameter dimension above mouth -->
+<path d="M382 108V121 M450 108V121 M385 113H447" stroke="#386a8d" stroke-width="1.9" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text x="416" y="97" text-anchor="middle" font-size="17" font-weight="700" fill="#386a8d">Ø 6 mm</text>
+<!-- depth dimension -->
+<path d="M464 127H479 M464 223H479 M475 130V220" stroke="#386a8d" stroke-width="1.9" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text x="495" y="177" font-size="16" font-weight="700" fill="#386a8d">Drill depth</text>
+<text x="495" y="197" font-size="14" fill="#386a8d">To be determined</text>
+<!-- remaining wood -->
+<path d="M413 233V255" stroke="#386a8d" stroke-width="1.7"/>
+<text x="258" y="245" font-size="15" font-weight="700" fill="#80552f">Wood remaining</text>
+<path d="M371 242H401" fill="none" stroke="#386a8d" stroke-width="1.6" marker-end="url(#arr)"/>
+<!-- thickness outside -->
+<path d="M749 127H783 M749 261H783 M778 130V258" fill="none" stroke="#386a8d" stroke-width="1.9" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text x="795" y="178" font-size="15" fill="#386a8d">Panel</text>
+<text x="795" y="197" font-size="15" fill="#386a8d">thickness</text>
+<text x="785" y="219" font-size="14" font-weight="700" fill="#386a8d">10 / 12 / 18 mm</text>
+<text x="72" y="291" font-size="14" fill="#546777">Ø 6 mm is the drill-bit diameter; the depth depends on the actual insert length.</text>
+</g></svg>
