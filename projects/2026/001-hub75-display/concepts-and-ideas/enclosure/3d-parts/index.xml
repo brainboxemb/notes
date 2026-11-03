@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D-Printed Parts on brainboxemb</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/</link><description>Recent content in 3D-Printed Parts on brainboxemb</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hinge Ideas</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/hinges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/hinges/</guid><description>&lt;p&gt;This page collects &lt;strong&gt;3D-printable hinge ideas and real-world mechanism references&lt;/strong&gt; for the HUB75 display enclosure.&lt;/p&gt;
+&lt;p&gt;The examples are starting points rather than final selections. The main questions are how far the panel must open, whether the hinge should remain hidden when closed, and how much clearance the mechanism needs around the enclosure edge.&lt;/p&gt;
+&lt;h2 id="stop-and-180-degree-hinges"&gt;Stop and 180-degree hinges&lt;/h2&gt;
+&lt;h3 id="stop-hinge"&gt;Stop hinge&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/hinges/images/makerworld-stop-hinge-w320.webp"
+ alt="3D-printed stop hinge"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;MakerWorld — Stop Hinge&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;A printable hinge with an integrated stop that limits its maximum opening angle.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://makerworld.com/nl/models/2644412-stop-hinge#profileId-2922394" target="_blank" rel="noopener noreferrer"&gt;MakerWorld&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This may be useful for a lid or support panel that must stop at a defined angle without a separate cable or support arm.&lt;/p&gt;</description></item><item><title>3D-Printed Corners &amp; Fittings</title><link>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/</guid><description>&lt;p&gt;3D-printable parts that could be useful for the HUB75 enclosure. Click an image or title to view its original model.&lt;/p&gt;
+&lt;h2 id="case-fittings"&gt;Case fittings&lt;/h2&gt;
+&lt;h3 id="diy-suitcase-parts--pinshape"&gt;DIY Suitcase Parts — Pinshape&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://pinshape.com/items/38644-3d-printed-diy-suitcase-parts" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/images/pinshape-diy-suitcase-parts-w320.webp"
+ alt="DIY suitcase fittings and corner pieces"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://pinshape.com/items/38644-3d-printed-diy-suitcase-parts" target="_blank" rel="noopener noreferrer"&gt;Pinshape — DIY Suitcase Parts&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Printable case fittings, handles and closure ideas.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://pinshape.com/items/38644-3d-printed-diy-suitcase-parts" target="_blank" rel="noopener noreferrer"&gt;Pinshape&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Set of printable corners, handles, closures and hinges. The author mentions PETG and M4/M6 bolts. Licence: CC BY-ND.&lt;/p&gt;
+&lt;h2 id="corner-protectors"&gt;Corner protectors&lt;/h2&gt;
+&lt;h3 id="flight-case-style-corners--printables"&gt;Flight Case Style Corners — Printables&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://www.printables.com/model/717251-flight-case-style-corners" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/images/printables-flight-case-corners-w320.webp"
+ alt="3D-printed flight-case style corner protectors"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.printables.com/model/717251-flight-case-style-corners" target="_blank" rel="noopener noreferrer"&gt;Printables — Flight Case Style Corners&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Printable corner protection for a flight-case-style enclosure.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://www.printables.com/model/717251-flight-case-style-corners" target="_blank" rel="noopener noreferrer"&gt;Printables&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h3 id="corner-protection-for-speakers--creality-cloud"&gt;Corner Protection for Speakers — Creality Cloud&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://www.crealitycloud.com/nl/model-detail/corner-protection-for-speakers?profileId=678a5ac5b0f06136c7f29284" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/images/creality-speaker-corners-w320.webp"
+ alt="3D-printed corner protection for speaker enclosures"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://www.crealitycloud.com/nl/model-detail/corner-protection-for-speakers?profileId=678a5ac5b0f06136c7f29284" target="_blank" rel="noopener noreferrer"&gt;Creality Cloud — Corner Protection for Speakers&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Corner protection concept for speaker-style housings.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://www.crealitycloud.com/nl/model-detail/corner-protection-for-speakers?profileId=678a5ac5b0f06136c7f29284" target="_blank" rel="noopener noreferrer"&gt;Creality Cloud&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 id="frame-connectors"&gt;Frame connectors&lt;/h2&gt;
+&lt;h3 id="three-way-corner-bracket--cults3d"&gt;Three Way Corner Bracket — Cults3D&lt;/h3&gt;
+&lt;div class="reference-example"&gt;
+ &lt;figure class="reference-example__figure"&gt;
+ &lt;a href="https://cults3d.com/en/3d-model/tool/three-way-corner-bracket" target="_blank" rel="noopener noreferrer"&gt;
+ &lt;img class="reference-example__image"
+ src="https://brainboxemb.github.io/notes/projects/2026/001-hub75-display/concepts-and-ideas/enclosure/3d-parts/corners-and-fittings/images/cults-three-way-corner-bracket-w320.webp"
+ alt="3D-printed three-way corner bracket"
+ loading="lazy"&gt;
+ &lt;/a&gt;
+ &lt;figcaption class="reference-example__figcaption"&gt;
+ &lt;span class="reference-example__caption"&gt;&lt;a href="https://cults3d.com/en/3d-model/tool/three-way-corner-bracket" target="_blank" rel="noopener noreferrer"&gt;Cults3D — Three Way Corner Bracket&lt;/a&gt;&lt;/span&gt;
+ &lt;span class="reference-example__note"&gt;Structural corner joint for three intersecting frame members.&lt;/span&gt;
+ &lt;span class="reference-example__source"&gt;Source: &lt;a href="https://cults3d.com/en/3d-model/tool/three-way-corner-bracket" target="_blank" rel="noopener noreferrer"&gt;Cults3D&lt;/a&gt;&lt;/span&gt;
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Three-way joint for connecting frame members. More general references: &lt;a href="https://brainboxemb.github.io/notes/ideas/print-ideas/3d-frame-systems/"&gt;3D-printed frame systems&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
