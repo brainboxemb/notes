@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="430" viewBox="0 0 940 430" role="img" aria-labelledby="t d">
+<title id="t">HUB75 display enclosure: light grey versus silver grey</title>
+<desc id="d">Two identical three-quarter-view illustrations of the HUB75 five-panel display enclosure; the left is RAL 7035 light grey and the right is RAL 7001 silver grey. The black screen and dimensions are identical; only the housing colour changes.</desc>
+<defs>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="7"/></filter>
+  <pattern id="ledDots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r=".75" fill="#68747b" opacity=".23"/></pattern>
+</defs>
+<rect width="940" height="430" fill="#f3f6f7"/>
+<path d="M469 28 V390" stroke="#cdd7dc" stroke-width="1.3" stroke-dasharray="5 7"/>
+
+  <g transform="translate(18 76)">
+    <ellipse cx="225" cy="290" rx="184" ry="16" fill="#0e1c27" opacity=".12"/>
+    <path d="M48 79 L335 23 L387 44 L387 260 L335 249 L48 303 Z" fill="#0b1c27" opacity=".08" filter="url(#shadow)"/>
+    <path d="M333 28 L384 47 L384 254 L333 238 Z" fill="#8c9694" stroke="#7b8583" stroke-width="2"/>
+    <path d="M29 83 L333 27 L333 253 L29 303 Z" fill="#C2C7C4" stroke="#7b8583" stroke-width="2.2"/>
+    <path d="M41 98 L322 48 L322 236 L41 282 Z" fill="#0d1116"/>
+    <path d="M44 101 L318 52 L318 233 L44 278 Z" fill="#11161b" stroke="#252d32" stroke-width="2"/>
+    <path d="M44 101 L318 52 L318 233 L44 278 Z" fill="url(#ledDots)" opacity=".44"/>
+    <g stroke="#3b4349" stroke-width="2.2" opacity=".9">
+      <path d="M99 91 L99 269"/>
+      <path d="M154 81 L154 260"/>
+      <path d="M209 72 L209 252"/>
+      <path d="M264 62 L264 242"/>
+    </g>
+    <path d="M29 83 L333 27" stroke="#ffffff" opacity=".42" stroke-width="2.2"/>
+    <path d="M29 83 L29 303" stroke="#ffffff" opacity=".25" stroke-width="2.2"/>
+    <path d="M333 27 L384 47" stroke="#ffffff" opacity=".32" stroke-width="2"/>
+    <path d="M384 47 L384 254" stroke="#17212b" opacity=".28" stroke-width="2"/>
+    <path d="M29 303 L333 253" stroke="#7b8583" opacity=".54" stroke-width="3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="53" y="23" width="17" height="17" rx="3" fill="#C2C7C4" stroke="#7b8583"/>
+    <text x="79" y="38" font-weight="700" font-size="20" fill="#203341">RAL 7035</text>
+    <text x="193" y="38" font-size="17" fill="#63717c">Light grey</text>
+  </g>
+
+  <g transform="translate(486 76)">
+    <ellipse cx="225" cy="290" rx="184" ry="16" fill="#0e1c27" opacity=".12"/>
+    <path d="M48 79 L335 23 L387 44 L387 260 L335 249 L48 303 Z" fill="#0b1c27" opacity=".08" filter="url(#shadow)"/>
+    <path d="M333 28 L384 47 L384 254 L333 238 Z" fill="#596873" stroke="#475860" stroke-width="2"/>
+    <path d="M29 83 L333 27 L333 253 L29 303 Z" fill="#89969F" stroke="#475860" stroke-width="2.2"/>
+    <path d="M41 98 L322 48 L322 236 L41 282 Z" fill="#0d1116"/>
+    <path d="M44 101 L318 52 L318 233 L44 278 Z" fill="#11161b" stroke="#252d32" stroke-width="2"/>
+    <path d="M44 101 L318 52 L318 233 L44 278 Z" fill="url(#ledDots)" opacity=".44"/>
+    <g stroke="#3b4349" stroke-width="2.2" opacity=".9">
+      <path d="M99 91 L99 269"/>
+      <path d="M154 81 L154 260"/>
+      <path d="M209 72 L209 252"/>
+      <path d="M264 62 L264 242"/>
+    </g>
+    <path d="M29 83 L333 27" stroke="#ffffff" opacity=".42" stroke-width="2.2"/>
+    <path d="M29 83 L29 303" stroke="#ffffff" opacity=".25" stroke-width="2.2"/>
+    <path d="M333 27 L384 47" stroke="#ffffff" opacity=".32" stroke-width="2"/>
+    <path d="M384 47 L384 254" stroke="#17212b" opacity=".28" stroke-width="2"/>
+    <path d="M29 303 L333 253" stroke="#475860" opacity=".54" stroke-width="3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="521" y="23" width="17" height="17" rx="3" fill="#89969F" stroke="#475860"/>
+    <text x="547" y="38" font-weight="700" font-size="20" fill="#203341">RAL 7001</text>
+    <text x="661" y="38" font-size="17" fill="#63717c">Silver grey</text>
+  </g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#697784" font-size="13">
+  <text x="470" y="403" text-anchor="middle">Concept render · same 5-panel HUB75 display · indicative RAL colours</text>
+  <text x="470" y="420" text-anchor="middle">On-screen colours depend on display, lighting and finish; compare physical colour samples.</text>
+</g>
+</svg>
