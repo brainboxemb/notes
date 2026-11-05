@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 780" role="img" aria-labelledby="title desc">
+<title id="title">Drilling angles shown from two perpendicular directions</title>
+<desc id="desc">Three cases, each shown in two views. A flat board drilled vertically is 90 degrees in side and front views. A flat board drilled at 45 degrees can show 45 degrees from the side and 90 degrees from the front. For drilling into a vertical wall, a horizontal drill must also point straight at the wall when seen from above.</desc>
+<style>
+  text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+  .row{fill:#f8fafc;stroke:#d2dce5;stroke-width:1.5}
+  .separator{stroke:#ccd9e3;stroke-width:1}
+  .heading{font-size:21px;font-weight:700;fill:#163654}
+  .view{font-size:16px;font-weight:650;fill:#39536b}
+  .note{font-size:14px;fill:#52687b}
+  .wood{fill:#e2c9a8;stroke:#ae8d65;stroke-width:2}
+  .body{stroke:#1679b2;stroke-width:12;stroke-linecap:round}
+  .bit{stroke:#23465c;stroke-width:4;stroke-linecap:round}
+  .ref{stroke:#819bab;stroke-width:1.5;stroke-dasharray:5 5}
+  .arc{fill:none;stroke:#bd6834;stroke-width:2}
+  .angle{font-size:19px;font-weight:700;fill:#b45c2e}
+  .warning{stroke:#d07f27;stroke-width:3;stroke-dasharray:7 5;stroke-linecap:round}
+</style>
+<rect width="840" height="780" fill="white"/>
+<text class="heading" x="24" y="35">Drill alignment: look from two directions</text>
+<text class="note" x="24" y="58">The two angles together define the intended drilling direction.</text>
+
+<!-- 1: flat board, perpendicular: 90 degrees in two perpendicular planes -->
+<g transform="translate(0 74)">
+  <rect class="row" x="16" y="0" width="808" height="216" rx="8"/>
+  <text class="heading" x="31" y="29">1. Flat board — straight down</text>
+  <line class="separator" x1="420" y1="38" x2="420" y2="201"/>
+  <text class="view" x="32" y="54">Side view: 90°</text>
+  <text class="view" x="435" y="54">Front view: 90°</text>
+  <rect class="wood" x="77" y="153" width="270" height="21" rx="2"/>
+  <path class="ref" d="M 210 67 V 186"/>
+  <path class="body" d="M 210 77 V 111"/>
+  <path class="bit" d="M 210 115 V 153"/>
+  <path class="arc" d="M 210 153 V 126 H 237"/>
+  <text class="angle" x="244" y="138">90°</text>
+  <rect class="wood" x="474" y="153" width="270" height="21" rx="2"/>
+  <path class="ref" d="M 610 67 V 186"/>
+  <path class="body" d="M 610 77 V 111"/>
+  <path class="bit" d="M 610 115 V 153"/>
+  <path class="arc" d="M 610 153 V 126 H 637"/>
+  <text class="angle" x="645" y="138">90°</text>
+  <text class="note" x="33" y="200">No tilt in either direction; gravity is the reference.</text>
+</g>
+
+<!-- 2: horizontal board with 45-degree pitch, 90-degree cross-axis -->
+<g transform="translate(0 300)">
+  <rect class="row" x="16" y="0" width="808" height="216" rx="8"/>
+  <text class="heading" x="31" y="29">2. Flat board — drill at 45°</text>
+  <line class="separator" x1="420" y1="38" x2="420" y2="201"/>
+  <text class="view" x="32" y="54">Side view: 45°</text>
+  <text class="view" x="435" y="54">Front view: 90°</text>
+  <rect class="wood" x="77" y="153" width="270" height="21" rx="2"/>
+  <path class="body" d="M 132 64 L 164 96"/>
+  <path class="bit" d="M 167 99 L 221 153"/>
+  <path class="ref" d="M 221 153 H 291"/>
+  <path class="arc" d="M 264 153 A43 43 0 0 0 251 122"/>
+  <text class="angle" x="277" y="125">45°</text>
+  <rect class="wood" x="474" y="153" width="270" height="21" rx="2"/>
+  <path class="ref" d="M 610 67 V 186"/>
+  <path class="body" d="M 610 77 V 111"/>
+  <path class="bit" d="M 610 115 V 153"/>
+  <path class="arc" d="M 610 153 V 126 H 637"/>
+  <text class="angle" x="645" y="138">90°</text>
+  <text class="note" x="33" y="200">The second view fixes which way the drill is tilted.</text>
+</g>
+
+<!-- 3: wall perpendicular: both elevation and plan must be aligned -->
+<g transform="translate(0 526)">
+  <rect class="row" x="16" y="0" width="808" height="232" rx="8"/>
+  <text class="heading" x="31" y="29">3. Vertical wall — drill straight into it</text>
+  <line class="separator" x1="420" y1="38" x2="420" y2="217"/>
+  <text class="view" x="32" y="54">Side / elevation: level</text>
+  <text class="view" x="435" y="54">Top view: 90° to wall</text>
+  <rect class="wood" x="321" y="76" width="20" height="113" rx="2"/>
+  <path class="ref" d="M 78 135 H 357"/>
+  <path class="body" d="M 116 135 H 218"/>
+  <path class="bit" d="M 225 135 H 320"/>
+  <path class="arc" d="M 292 135 V 106 H 321"/>
+  <text class="angle" x="276" y="102">90°</text>
+  <rect class="wood" x="730" y="76" width="20" height="113" rx="2"/>
+  <path class="ref" d="M 456 135 H 768"/>
+  <path class="body" d="M 497 135 H 601"/>
+  <path class="bit" d="M 608 135 H 729"/>
+  <path class="arc" d="M 700 135 V 106 H 729"/>
+  <text class="angle" x="685" y="101">90°</text>
+  <path class="warning" d="M 538 150 L 728 92"/>
+  <text class="note" x="435" y="206">Orange dashed line = wrong sideways direction.</text>
+  <text class="note" x="33" y="206">Being level alone does not ensure this top-view angle.</text>
+</g>
+</svg>

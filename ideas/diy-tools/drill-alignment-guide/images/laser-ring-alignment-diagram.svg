@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 238" role="img" aria-labelledby="title desc">
+<title id="title">Laser ring alignment: square versus tilted drilling</title>
+<desc id="desc">Schematic showing two laser rings with a common centre for perpendicular drilling, and offset centres for angled drilling.</desc>
+<style>
+ text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;fill:#273a50}
+ .label{font-size:18px;font-weight:650;text-anchor:middle}
+ .note{font-size:13px;text-anchor:middle;fill:#5b6b7b}
+ .surface{fill:#f8fafb;stroke:#d2dce5;stroke-width:1.5}
+ .reference{fill:none;stroke:#3a7bb5;stroke-width:4}
+ .align{fill:none;stroke:#33a566;stroke-width:4}
+ .tilt{fill:none;stroke:#e69c25;stroke-width:4}
+ .center{fill:#3a7bb5}
+</style>
+<rect width="660" height="238" fill="white"/>
+<rect class="surface" x="18" y="12" width="304" height="211" rx="5"/>
+<rect class="surface" x="338" y="12" width="304" height="211" rx="5"/>
+<g transform="translate(170 102)">
+ <circle class="reference" r="55"/>
+ <circle class="align" r="34"/>
+ <circle class="center" r="3.5"/>
+</g>
+<text class="label" x="170" y="183">Square to the surface</text>
+<text class="note" x="170" y="204">Rings share the same centre</text>
+<g transform="translate(490 102)">
+ <circle class="reference" r="55"/>
+ <circle class="center" r="3.5"/>
+ <ellipse class="tilt" cx="22" cy="-8" rx="38" ry="28" transform="rotate(-14 22 -8)"/>
+ <circle cx="22" cy="-8" r="3.5" fill="#e69c25"/>
+</g>
+<text class="label" x="490" y="183">Drill tilted</text>
+<text class="note" x="490" y="204">Rings no longer share a centre</text>
+</svg>
