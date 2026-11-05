@@ -188,6 +188,15 @@
 }
 
 /* Smaller product references (e.g. connector variants), without changing display examples. */
+/* Medium references display at 240 px, with text and source beside the image. */
+.reference-example--medium .reference-example__figure {
+  grid-template-columns: minmax(0, 240px) minmax(0, 1fr);
+}
+
+.reference-example--medium .reference-example__image {
+  max-width: 240px;
+}
+
 .reference-example--small .reference-example__figure {
   grid-template-columns: minmax(0, 160px) minmax(0, 1fr);
 }
@@ -218,6 +227,10 @@
   .reference-example__figure {
     display: block;
     max-width: 320px;
+  }
+
+  .reference-example--medium .reference-example__figure {
+    max-width: 240px;
   }
 
   .reference-example__figcaption {
