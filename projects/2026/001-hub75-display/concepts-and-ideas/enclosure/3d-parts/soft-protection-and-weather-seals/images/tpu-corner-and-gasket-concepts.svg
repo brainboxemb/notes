@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 410" width="960" height="410" role="img" aria-labelledby="t d">
+<title id="t">HUB75: soft corner protector and separate weather seal</title>
+<desc id="d">Left sketch: a rigid blue PCTG corner has a small orange TPU pad that contacts a supporting table. Right sketch: a wooden lid compresses a continuous orange EPDM or silicone gasket above the enclosure wall; a lid overhang diverts rain outside. These are separate functions, not a final dimensional design.</desc>
+<rect width="960" height="410" fill="#fff"/>
+<rect x="12" y="12" width="456" height="385" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="492" y="12" width="456" height="385" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="35" y="51" font-family="Arial, sans-serif" font-size="23" font-weight="bold" fill="#162633">A. Scratch / impact protection</text>
+<text x="515" y="51" font-family="Arial, sans-serif" font-size="23" font-weight="bold" fill="#162633">B. Rain seal at an opening</text>
+<text x="35" y="80" font-family="Arial, sans-serif" font-size="15" fill="#536274">External corner section</text>
+<text x="515" y="80" font-family="Arial, sans-serif" font-size="15" fill="#536274">Access lid + enclosure wall section</text>
+
+<!-- LEFT: structural frame and rigid protective corner -->
+<rect x="75" y="325" width="320" height="15" fill="#a7b2be"/>
+<rect x="75" y="340" width="320" height="7" fill="#d8dfe5"/>
+<rect x="122" y="175" width="75" height="146" fill="#d4aa73" stroke="#7b5730" stroke-width="2"/>
+<path d="M111 166 H224 V205 H160 V322 H111 Z" fill="#4a8eb0" stroke="#235d7b" stroke-width="3" stroke-linejoin="round"/>
+<path d="M108 306 H178 V325 H108 Z" fill="#e18c4b" stroke="#a75c23" stroke-width="2" stroke-linejoin="round"/>
+<rect x="122" y="325" width="50" height="3" fill="#e18c4b"/>
+<text x="247" y="153" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#235d7b">PCTG corner</text>
+<line x1="241" y1="158" x2="212" y2="189" stroke="#235d7b" stroke-width="2"/>
+<text x="242" y="235" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#a75c23">TPU contact pad</text>
+<line x1="241" y1="243" x2="164" y2="310" stroke="#a75c23" stroke-width="2"/>
+<circle cx="164" cy="310" r="4" fill="#a75c23"/>
+<text x="232" y="367" font-family="Arial, sans-serif" font-size="16" fill="#536274">Table / other surface</text>
+<text x="35" y="383" font-family="Arial, sans-serif" font-size="14" fill="#536274">Softer, replaceable pad; not a water seal</text>
+
+<!-- RIGHT: lid, continuous gasket and wooden enclosure -->
+<text x="517" y="120" font-family="Arial, sans-serif" font-size="16" fill="#397ba0">Rain stays outside</text>
+<path d="M587 136 V168 M580 162 L587 171 L594 162" fill="none" stroke="#397ba0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="610" y="232" width="302" height="112" fill="#d4aa73" stroke="#7b5730" stroke-width="2"/>
+<rect x="566" y="163" width="345" height="43" fill="#d4aa73" stroke="#7b5730" stroke-width="2"/>
+<rect x="625" y="206" width="286" height="26" fill="#edf2f7" stroke="#94a3b8" stroke-width="2"/>
+<rect x="650" y="206" width="91" height="26" rx="8" fill="#e18c4b" stroke="#a75c23" stroke-width="2"/>
+<line x1="650" y1="220" x2="741" y2="220" stroke="#a75c23" stroke-dasharray="5 5"/>
+<text x="759" y="151" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#7b5730">Lid</text>
+<text x="754" y="269" font-family="Arial, sans-serif" font-size="17" fill="#7b5730">Enclosure wall</text>
+<text x="515" y="294" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#a75c23">Continuous</text>
+<text x="515" y="315" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#a75c23">EPDM / silicone</text>
+<line x1="647" y1="300" x2="686" y2="234" stroke="#a75c23" stroke-width="2"/>
+<circle cx="686" cy="234" r="4" fill="#a75c23"/>
+<text x="519" y="361" font-family="Arial, sans-serif" font-size="15" fill="#536274">Closing the lid compresses the seal</text>
+<text x="519" y="382" font-family="Arial, sans-serif" font-size="14" fill="#536274">Gasket path must continue around whole opening</text>
+</svg>
