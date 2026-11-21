@@ -13,7 +13,6 @@
   content: " · ";
 }
 
-.daily-summary__source,
 .daily-source-overview__website,
 .daily-empty {
   font-size: 0.875rem;
@@ -112,37 +111,18 @@
 }
 
 
-/* Optional Daily reference thumbnails. */
-.daily-summary__layout {
-  display: flex;
-  gap: 1rem;
-  align-items: flex-start;
-}
-
-.daily-summary__image {
-  flex: 0 0 180px;
-  max-width: 180px;
-  margin: 0;
-}
-
-.daily-summary__image img,
+/* Daily entry detail images; shared summary cards live in site-components.css. */
 .daily-entry__image img {
   display: block;
   width: 100%;
   height: auto;
 }
 
-.daily-summary__image figcaption,
 .daily-entry__image figcaption {
   margin-top: 0.25rem;
   font-size: 0.72rem;
   line-height: 1.35;
   color: var(--color-text-subtle);
-}
-
-.daily-summary__content {
-  flex: 1 1 auto;
-  min-width: 0;
 }
 
 .daily-entry .post__header {
@@ -216,12 +196,10 @@
 }
 
 @media screen and (max-width: 620px) {
-  .daily-summary__layout,
   .daily-entry__meta-block {
     display: block;
   }
 
-  .daily-summary__image,
   .daily-entry__image {
     width: auto;
     max-width: 180px;

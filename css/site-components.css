@@ -410,3 +410,52 @@
 .reference-float-clear {
   clear: both;
 }
+
+/* Shared reference-video listing cards for Daily, Knowledge Base and Projects.
+ * Class names are retained for backwards compatibility with existing pages.
+ */
+.daily-summary__source {
+  font-size: 0.875rem;
+}
+
+.daily-summary__layout {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.daily-summary__image {
+  flex: 0 0 180px;
+  max-width: 180px;
+  margin: 0;
+}
+
+.daily-summary__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.daily-summary__image figcaption {
+  margin-top: 0.25rem;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  color: var(--color-text-subtle);
+}
+
+.daily-summary__content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+@media screen and (max-width: 620px) {
+  .daily-summary__layout {
+    display: block;
+  }
+
+  .daily-summary__image {
+    width: auto;
+    max-width: 180px;
+    margin: 0 0 0.75rem;
+  }
+}
